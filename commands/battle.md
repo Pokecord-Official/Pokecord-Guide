@@ -9,7 +9,7 @@ In order to challenge another player for a pokemon battle, the user must specify
 ## Cross Server
 
 Cross server battles are pokemon battles where two eligible players in different discord servers can battle each other. To start a cross server battle, the user must use the command without mentioning the `opponent` option.
-:::details
+:::details Matchmaking
 Cross server matchmaking depends on the following factors:<br>
 1. **Party Generation**: Party generation is equal to 9 if there is a generation 9 pokemon present in the party, otherwise 8. The algorithm will only match players with same party generations.<br>
 2. **Stake Value**: Users will only be matched with an opponent with a stake value of ± 15% of the provided amount unless 0.

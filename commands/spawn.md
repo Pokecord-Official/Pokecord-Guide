@@ -7,12 +7,16 @@ Catching requires pokeballs, if the user runs out of pokeballs, the catch button
 
 ## Shiny Pokemon
 
-There is a `1` in `4096` chance for a pokemon to be a shiny. If one or more of the spawned pokemon in the list are shiny, they are indicated with a ✨.
+There is a `1` in `4096` chance for a spawned pokemon to be a shiny. Shiny pokemon are indicated with a ✨ in the spawn list.<br>
+:::tip Items
+[Relics](https://pokecord.org/relics) can be used to transform an existing pokemon into a shiny.<br>
+[Shiny Charm](https://bulbapedia.bulbagarden.net/wiki/Shiny_Charm) can be used to change shiny spawn rates to `1` in `3096`.
+:::
 
 ## Active Server List
 
 The official website has a [live list](https://pokecord.org/active) of discord servers that allows competitive players to find a place to battle and trade with others.<br>
 The `Catch` and `Walk Away` buttons are the only two interactions on the bot that are used to bump a server to the top of the list.
-:::details
+:::details Eligibility
 The server must meet our eligibility criteria of a minimum age of `6` months and a minimum member count of `100`.
 :::
