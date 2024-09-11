@@ -8,6 +8,7 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: 'https://pokecord.org/favicon-dark', media: '(prefers-color-scheme: dark)' }],
     ['link', { rel: 'icon', href: 'https://pokecord.org/favicon-light', media: '(prefers-color-scheme: light)' }],
+    ['meta', { content: 'https://pokecord.org/icon', property: 'og:image' }]
   ],
   cleanUrls: true,
   themeConfig: {
