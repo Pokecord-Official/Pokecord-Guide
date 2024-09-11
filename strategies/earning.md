@@ -23,4 +23,4 @@ The professor rewards you with `5` pokecoins upon winning every AI trainer battl
 
 ## Amulet Coin
 
-The `Amulet coin` is an held item that gives a `25%` chance to earn `1` pokecoin upon winning every spawn battle if the holder participates in the battle.
+`Amulet Coin` is an held item that gives a `25%` chance to earn `1` pokecoin upon winning every spawn battle that the holder participates in. This is the only passive method of earning pokecoins.

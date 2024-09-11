@@ -7,5 +7,5 @@ The shop is categorized into `Evolution`, `Forms` and `Other` items. There are b
 - Users can buy up to `10` items in one go.
 :::
 :::info
-Effort has been made to make sure that all essential battle items are purchasable and available for pokecoins in order to ensure a fair gameplay between free and paid users.
+Effort has been made to make sure that all essential battle and evolution items are purchasable and available for only pokecoins in order to ensure a fair gameplay between free and paid users.
 :::
