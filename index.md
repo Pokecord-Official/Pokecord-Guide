@@ -1,85 +1,13 @@
-# Markdown Extension Examples
+# Pokecord++
 
-This page demonstrates some of the built-in markdown extensions provided by VitePress.
+Pokecord++ is a discord bot designed for users who are willing to learn or play around with actual pokemon mechanics. Unlike most other discord-based pokemon experiences, Pokecord++ is more focused towards pokemon battles as opposed to collection. 
 
-## Syntax Highlighting
+## Getting Started
 
-VitePress provides Syntax Highlighting powered by [Shiki](https://github.com/shikijs/shiki), with additional features like line-highlighting:
-
-**Input**
-
-````md
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-````
-
-**Output**
-
-```js{4}
-export default {
-  data () {
-    return {
-      msg: 'Highlighted!'
-    }
-  }
-}
-```
-
-## Custom Containers
-
-**Input**
-
-```md
-::: info
-This is an info box.
-:::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-```
-
-**Output**
+- Pokecord++ is designed to only support discord slash commands and does not offer support for @mention or prefix commands.<br>
+- If it's your first time using the bot, using any command will trigger a welcome message with a list of starter pokemon. The select menu with starter pokemon can have multiple pages to scroll through.<br>
+- Clicking on the pokemon displays some basic information about it. Once you have made a choice, click the `Select` button to receive your first pokemon.
 
 ::: info
-This is an info box.
+Commands like `/ping`, `/help` and `/info` do not trigger the welcome message.
 :::
-
-::: tip
-This is a tip.
-:::
-
-::: warning
-This is a warning.
-:::
-
-::: danger
-This is a dangerous warning.
-:::
-
-::: details
-This is a details block.
-:::
-
-## More
-
-Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).

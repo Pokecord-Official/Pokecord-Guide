@@ -30,6 +30,17 @@ export default defineConfig({
           { text: '/help', link: '/commands/help.md' },
           { text: '/ping', link: '/commands/ping.md' },
         ]
+      },
+      {
+        text: 'Strategies',
+        collapsed: true,
+        items: [
+          { text: 'Limits', link: '/strategies/limits.md' },
+          { text: 'Pokecoins', link: '/strategies/earning.md' },
+          { text: 'Leveling Up', link: '/strategies/levelup.md' },
+          { text: 'EV Training', link: '/strategies/ev.md' },
+
+        ]
       }
     ],
 
