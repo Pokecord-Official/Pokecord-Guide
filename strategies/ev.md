@@ -16,7 +16,7 @@ EVs or [effort value](https://bulbapedia.bulbagarden.net/wiki/Effort_values) poi
 - The item `Macho Brace` can double the amount of EVs earned by the holder. 
 - The item `Exp Share` shares the entire EV yield of the defeated pokemon to the holder.
 - [Vitamins](https://bulbapedia.bulbagarden.net/wiki/Vitamin) like `Zinc` can be used to directly add `10` EVs to the respective stats.
-- [Berries](https://bulbapedia.bulbagarden.net/wiki/Berry) like `Pomeg Berry` can be used to directly reduce `10` EVs from the respective stats.
+- [Berries](https://bulbapedia.bulbagarden.net/wiki/Category:Friendship-raising_Berries) like `Pomeg Berry` can be used to directly reduce `10` EVs from the respective stats.
 :::info
 [Power items](https://bulbapedia.bulbagarden.net/wiki/Power_item) such as `Power Anklet` do not effect the EV yield.
 :::

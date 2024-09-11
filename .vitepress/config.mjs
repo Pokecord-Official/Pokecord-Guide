@@ -5,6 +5,10 @@ export default defineConfig({
   lastUpdated: true,
   title: "Guide - Pokecord++",
   description: "Guide For Pokecord++",
+  head: [
+    ['link', { rel: 'icon', href: 'https://pokecord.org/favicon-dark', media: '(prefers-color-scheme: dark)' }],
+    ['link', { rel: 'icon', href: 'https://pokecord.org/favicon-light', media: '(prefers-color-scheme: light)' }],
+  ],
   cleanUrls: true,
   themeConfig: {
     logo: "https://pokecord.org/icon",
