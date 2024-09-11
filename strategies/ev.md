@@ -8,7 +8,7 @@ EVs or [effort value](https://bulbapedia.bulbagarden.net/wiki/Effort_values) poi
 :::details
 - The stat increase is displayed next to the pokemon stats section in [/view](/commands/view.html) message. 
 - Maxing out the EV threshold displays a symbol next to the IV percentage of the pokemon.
-- A maxed out EV stat is indicated by a symbol next to it.
+- A maxed out an EV stat is indicated by a symbol next to it.
 :::
 
 ## Items
