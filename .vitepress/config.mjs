@@ -5,6 +5,7 @@ export default defineConfig({
   lastUpdated: true,
   title: "Guide - Pokecord++",
   description: "Guide For Pokecord++",
+  cleanUrls: true,
   themeConfig: {
     logo: "https://pokecord.org/icon",
     // https://vitepress.dev/reference/default-theme-config
