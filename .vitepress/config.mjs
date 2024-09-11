@@ -11,6 +11,7 @@ export default defineConfig({
   ],
   cleanUrls: true,
   themeConfig: {
+    search: { provider: 'local' },
     logo: "https://pokecord.org/icon",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
