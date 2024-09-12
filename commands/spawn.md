@@ -1,8 +1,13 @@
 # Spawning
 
 This command is used to spawn up to 5 to 6 wild pokemon at a time. Users can select one to fight and upon winning, choose to either `Catch` it or `Walk Away`. Both interactions yield experience points, effort value points and happiness for the pokemon that participated in the battle.
-:::info
-Catching requires pokeballs, if the user runs out of pokeballs, the catch button is disabled. Pokeballs can be purchased from the [shop](/commands/shop.html).
+:::details
+- Caught pokemon are auto added to the party if there's an empty slot available.
+- Spawned pokemon levels depend on the max leveled pokemon in the party and are capped at 45.
+- Catching requires pokeballs, if the user runs out of pokeballs, the catch button is disabled. Pokeballs can be purchased from the [shop](/commands/shop.html).
+:::
+:::tip
+If you're just starting out, it is recommended to pick your opponent based on [type effectiveness](https://bulbapedia.bulbagarden.net/wiki/Type) for the best chance at winning.
 :::
 
 ## Shiny Pokemon
