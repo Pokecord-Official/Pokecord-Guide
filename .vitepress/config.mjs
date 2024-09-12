@@ -16,7 +16,7 @@ export default defineConfig({
     logo: "https://pokecord.org/icon",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: 'Home', link: 'https://pokecord.org' },
+      { text: 'Home', link: 'https://pokecord.org', target: '_self' },
     ],
 
     sidebar: [
