@@ -4,10 +4,12 @@ Pokecord++ is a discord bot designed for users who are willing to learn or play 
 
 ## Getting Started
 
-- Pokecord++ is designed to only support discord slash commands and does not offer support for @mention or prefix commands.<br>
-- If it's your first time using the bot, using any command will trigger a welcome message with a list of starter pokemon. The select menu with starter pokemon can have multiple pages to scroll through.<br>
+- If it's your first time using the bot, using any command will trigger a welcome message with a list of starter pokemon. The select menu with starter pokemon can have multiple pages to scroll through.
 - Clicking on the pokemon displays some basic information about it. Once you have made a choice, click the `Select` button to receive your first pokemon.
 
-::: info
+:::info
+Pokecord++ is designed to only support discord slash commands and does not offer support for @mention or prefix commands.
+:::
+::: tip
 Commands like `/ping`, `/help` and `/info` do not trigger the welcome message.
 :::
