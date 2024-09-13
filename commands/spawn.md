@@ -4,10 +4,10 @@ This command is used to spawn up to 5 to 6 wild pokemon at a time. Users can sel
 :::details
 - Caught pokemon are auto added to the party if there's an empty slot available.
 - Spawned pokemon levels depend on the max leveled pokemon in the party and are capped at 45.
-- Catching requires pokeballs, if the user runs out of pokeballs, the catch button is disabled. Pokeballs can be purchased from the [shop](/commands/shop.html).
+- Catching requires pokeballs, if the user runs out, the catch button is disabled. Pokeballs can be purchased from the [shop](/commands/shop.html).
 :::
 :::tip
-If you're just starting out, it is recommended to pick your opponent based on [type effectiveness](https://bulbapedia.bulbagarden.net/wiki/Type) for the best chance at winning.
+If you're just starting out, it is recommended to pick your opponent based on [type disvantage](https://bulbapedia.bulbagarden.net/wiki/Type) for the best chance at winning.
 :::
 
 ## Shiny Pokemon
