@@ -13,7 +13,7 @@ EVs or [effort value](https://bulbapedia.bulbagarden.net/wiki/Effort_values) poi
 
 ## Items
 
-- [Macho Brace](https://bulbapedia.bulbagarden.net/wiki/Macho_Brace) can double the amount of EVs earned by the holder. 
+- [Macho Brace](https://bulbapedia.bulbagarden.net/wiki/Macho_Brace) can double the amount of EVs gained by the holder. 
 - [Exp Share](https://bulbapedia.bulbagarden.net/wiki/Exp._Share) shares the entire EV yield of the defeated pokemon to the holder.
 - [Vitamins](https://bulbapedia.bulbagarden.net/wiki/Vitamin) can be used to directly add `10` EV points to the respective stats.
 - [Berries](https://bulbapedia.bulbagarden.net/wiki/Category:Friendship-raising_Berries) can be used to directly reduce `10` EV points from the respective stats.
