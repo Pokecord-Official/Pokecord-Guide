@@ -2,9 +2,10 @@
 
 The economy is designed to keep inflation under strict control while still making sure that earning pokecoins is easy and accessible. This ensures that the value per coin is a lot higher than any other economy system on discord.
 :::details
+
 - Pokemon yield 1 pokecoin per level up.
 - Level up evolution bonus is calculated using the formula `Level * 0.1` rounded up.
-:::
+  :::
 
 ## Voting
 
@@ -15,7 +16,7 @@ Last vote rewards can be viewed by using the `/profile` command.
 
 ## Badges
 
-Completing achievements and earning badges is the best way to earn a lot of pokecoins very quickly. More information on this can be found in the official server.
+Completing achievements and earning badges is the best way to earn a lot of pokecoins very quickly. More information about badges can be found in the [badges](/strategies/badges.html) section.
 
 ## AI Trainer
 

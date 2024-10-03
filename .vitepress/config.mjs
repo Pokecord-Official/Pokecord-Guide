@@ -44,6 +44,7 @@ export default defineConfig({
         items: [
           { text: 'Limits', link: '/strategies/limits.md' },
           { text: 'Pokecoins', link: '/strategies/earning.md' },
+          { text: 'Badges', link: '/strategies/badges.md' },
           { text: 'Leveling Up', link: '/strategies/levelup.md' },
           { text: 'EV Training', link: '/strategies/ev.md' },
 
