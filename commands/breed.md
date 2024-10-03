@@ -5,5 +5,5 @@ Breeding involves choosing two compatible pokemon to produce an offspring with a
 The offspring is always level `1` and has happiness value of `120`.
 :::
 :::tip
-Breeding is the only way to obtain `Manaphy`.
+Breeding is the only way to obtain `Phione`.
 :::
