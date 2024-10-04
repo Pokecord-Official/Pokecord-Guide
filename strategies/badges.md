@@ -42,15 +42,21 @@ Obtained by triggering `6` evolutions in a single battle.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859474308927560.png" width="40" height="40" style="margin-right:5px">Beacon</div>
 
-Obtained by using the move [Sketch](https://bulbapedia.bulbagarden.net/wiki/Sketch_(move)) to copy the move [Roar Of Time](https://bulbapedia.bulbagarden.net/wiki/Roar_of_Time_(move)).
+Obtained by using the move [Sketch](https://bulbapedia.bulbagarden.net/wiki/Sketch_(move)) to copy the move [Roar Of Time](https://bulbapedia.bulbagarden.net/wiki/Roar_of_Time_(move)) in a staked PvP match.
 > Rewards: 
 > - `200` Pokecoins
+:::info
+The user must win the match in order to successfully copy the move.
+:::
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1290694215092670614.png" width="40" height="40" style="margin-right:5px">Earth</div>
 
 Obtained by obtaining the item `Leader's Crest` from ability [Pickup](https://bulbapedia.bulbagarden.net/wiki/Pickup_(Ability)).
 > Rewards: 
 > - `200` Pokecoins
+:::info
+This feature of Pickup only works in wild spawn battles.
+:::
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859677577613454.png" width="40" height="40" style="margin-right:5px">Stone</div>
 
