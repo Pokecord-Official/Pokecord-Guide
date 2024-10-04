@@ -45,7 +45,7 @@ Obtained by triggering `6` evolutions in a single battle.
 Obtained by using the move [Sketch](https://bulbapedia.bulbagarden.net/wiki/Sketch_(move)) to copy the move [Roar Of Time](https://bulbapedia.bulbagarden.net/wiki/Roar_of_Time_(move)) in a staked PvP match.
 > Rewards: 
 > - `200` Pokecoins
-:::info
+:::tip
 The user must win the match in order to successfully copy the move.
 :::
 
@@ -54,7 +54,7 @@ The user must win the match in order to successfully copy the move.
 Obtained by obtaining the item `Leader's Crest` from ability [Pickup](https://bulbapedia.bulbagarden.net/wiki/Pickup_(Ability)).
 > Rewards: 
 > - `200` Pokecoins
-:::info
+:::tip
 This feature of Pickup only works in wild spawn battles.
 :::
 
@@ -63,7 +63,7 @@ This feature of Pickup only works in wild spawn battles.
 Obtained by [voting](/strategies/earning.html) for Pokecord++ on [Top.gg](https://top.gg/bot/818836234104602635/vote) `365` times without breaking the streak.
 > Rewards: 
 > - `200` Pokecoins
-:::info
+:::tip
 Reward is doubled if you get lucky and hit the jackpot on your last vote.
 :::
 
