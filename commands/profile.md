@@ -9,7 +9,7 @@ This value only updates when the trainer catches or walks away after winning a s
 
 ## Badges
 
-The icons displayed when viewing the trainer profile are called achievement badges. Users can earn badges by completing certain tasks in the bot. These tasks are always kept up to date in the bot's `/help` command.
+The icons displayed when viewing the trainer profile are called achievement badges. Users can earn badges by completing certain tasks in the bot. These tasks are always kept up to date in the [badges](../strategies/badges.html) section.
 
 ## Active Key Items
 

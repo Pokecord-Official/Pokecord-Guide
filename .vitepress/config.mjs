@@ -47,7 +47,7 @@ export default defineConfig({
           { text: 'Badges', link: '/strategies/badges.md' },
           { text: 'Leveling Up', link: '/strategies/levelup.md' },
           { text: 'EV Training', link: '/strategies/ev.md' },
-
+          { text: 'Active Servers', link: '/strategies/active.md' }
         ]
       }
     ],

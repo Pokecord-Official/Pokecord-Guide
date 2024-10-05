@@ -9,6 +9,6 @@ The shop is categorized into `Evolution`, `Forms` and `Other` items. There are b
 :::tip
 The 🔍 button can be used to search for items. The search results appear in the last select menu.
 :::
-:::info
+:::danger Notice
 Effort has been made to make sure that all essential battle and evolution items are obtainable by pokecoins in order to ensure a fair gameplay between free and paid users.
 :::
