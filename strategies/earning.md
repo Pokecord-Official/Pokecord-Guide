@@ -14,6 +14,10 @@ Voting for Pokecord++ on [Top.gg](https://top.gg/bot/818836234104602635/vote) ca
 Last vote rewards can be viewed by using the `/profile` command.
 :::
 
+## Market
+
+The [market](../commands/market.html) allows users to sell eligible pokemon to the bot or to other players. This is not only one of the easier methods to earn pokecoins but also an easy way to level up your existing pokemon as some pokemon can be exchanged for [Rare Candies](https://bulbapedia.bulbagarden.net/wiki/Rare_Candy).
+
 ## Badges
 
 Completing achievements and earning badges is the best way to earn a lot of pokecoins very quickly. More information about badges can be found in the [badges](/strategies/badges.html) section.

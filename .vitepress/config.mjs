@@ -26,6 +26,7 @@ export default defineConfig({
         items: [
           { text: '/profile', link: '/commands/profile.md' },
           { text: '/battle', link: '/commands/battle.md' },
+          { text: '/market', link: '/commands/market.md' },
           { text: '/spawn', link: '/commands/spawn.md' },
           { text: '/teach', link: '/commands/teach.md' },
           { text: '/breed', link: '/commands/breed.md' },

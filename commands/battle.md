@@ -27,6 +27,9 @@ Despite the stake value, an AI Trainer battle will always yield experience point
 ## Stakes
 
 To make battles more exciting, users can compete for a pokecoins. The winner receives the stake amount while it's deducted from the loser's profile. Unstaked PvP or Cross Server battles do not yield experence points, effort value points or happiness.
+:::info Stake Fee
+Upon a successful win, `5%` of the total stake value is deducted before the winner receives the amount.
+:::
 :::tip
 The `Total Wins` displayed on the profile are the amount of staked battles won by the player. A win is only considered for a complete battle, forfeitting a battle does not count as a win for the opponent.
 :::
