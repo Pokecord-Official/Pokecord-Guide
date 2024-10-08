@@ -1,12 +1,14 @@
 # Leveling Up
 
 The leveling system and [experience](https://bulbapedia.bulbagarden.net/wiki/Experience) gain is accurate to the actual pokemon games. The only way to level up your pokemon is through battles or using an item called [Rare Candy](https://bulbapedia.bulbagarden.net/wiki/Rare_Candy).
-
+:::tip
+Selling pokemon on the [market](../commands/market.html) is the best way to obtain free rare candies.
+:::
 ## Battles
 
 Experience and effort value points can only be obtained through staked battles, spawn battles and AI trainer battles. Each pokemon yields a specific amount of experience and effort value points that can be viewed using the [/info](/commands/info.html) command.
 :::tip
-`Blissey` yields the highest amount of experience points.
+[Blissey](https://bulbapedia.bulbagarden.net/wiki/Blissey_(Pok%C3%A9mon)) yields the highest amount of experience points.
 :::
 
 ## Items

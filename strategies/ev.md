@@ -1,14 +1,14 @@
 # EV Training
 
 EVs or [effort value](https://bulbapedia.bulbagarden.net/wiki/Effort_values) points are stat poins that your pokemon gains from defeating other pokemon. Proper EV training can be a deciding factor between winning or losing a battle. A pokemon can have a total of `510` EVs with a max of `252` EVs per stat. Information about the EV yield of each pokemon can be found in the [/info](/commands/info.html) command.
-:::info
-- Unlike the actual games, all EV's start with the default value set to `1` making the total equal to `6`.
-- `4` EV points round out to an increase of `1` stat point at level `100`.
-:::
 :::details
 - The stat increase is displayed next to the pokemon stats section in [/view](/commands/view.html) message. 
 - Maxing out the EV threshold displays a symbol next to the IV percentage of the pokemon.
 - A maxed out an EV stat is indicated by a symbol next to it.
+:::
+:::info
+- Unlike the actual games, all EV's start with the default value set to `1` making the total equal to `6`.
+- `4` EV points round out to an increase of `1` stat point at level `100`.
 :::
 
 ## Items

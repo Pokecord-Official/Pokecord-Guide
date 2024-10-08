@@ -10,7 +10,7 @@ There are set limits to the amount of items and pokemon that a user can have. Th
 - Items are limited to `300`. Item limits do not include purchased moves or items held by pokemon.
 - Users can have up to `255` pokeballs at a time.
 :::
-:::danger Important
+:::danger Notice
 Accounts that stay [inactive](/commands/profile.html#last-active-status) for over `6` months are auto deleted unless premium is active.
 :::
 
