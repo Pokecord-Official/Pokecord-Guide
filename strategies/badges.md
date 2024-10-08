@@ -40,7 +40,7 @@ Obtained by triggering `6` evolutions in a single battle.
 > Rewards: 
 > - `100` Pokecoins
 
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1293245615488241777.png" width="40" height="40" style="margin-right:5px">Haunted</div>
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1293261197566541955.png" width="40" height="40" style="margin-right:5px">Pride</div>
 
 Obtained by selling a `Medicham` to `Trainer Mindy` and hitting a jackpot.
 > Rewards: 
