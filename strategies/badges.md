@@ -40,6 +40,12 @@ Obtained by triggering `6` evolutions in a single battle.
 > Rewards: 
 > - `100` Pokecoins
 
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1293245615488241777.png" width="40" height="40" style="margin-right:5px">Haunted</div>
+
+Obtained by selling a `Medicham` to `Trainer Mindy` and hitting a jackpot.
+> Rewards: 
+> - `100` Pokecoins
+
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859474308927560.png" width="40" height="40" style="margin-right:5px">Beacon</div>
 
 Obtained by using the move [Sketch](https://bulbapedia.bulbagarden.net/wiki/Sketch_(move)) to copy the move [Roar Of Time](https://bulbapedia.bulbagarden.net/wiki/Roar_of_Time_(move)) in a staked PvP match.
