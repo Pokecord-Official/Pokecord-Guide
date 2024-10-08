@@ -1,6 +1,6 @@
 # Market
 
-Market can be used to sell eligible pokemon to the bot or to other players. The market is carefully designed to prevent spam entries and unreasonable prices and comes with strict quality and inflation control. This design comes with a few limitations and a small learning curve.
+Market can be used to sell eligible pokemon to the bot or to other players. The market is designed to prevent spam entries and unreasonable prices and comes with strict quality and inflation control. This design comes with a few limitations and a small learning curve.
 :::danger Notice
 Market notifications are sent via direct message. Users with their DMs disabled wont receive this information.
 :::
@@ -16,7 +16,7 @@ Pokemon with `Common` and `Regional` rarity can only be sold to the bot and cann
 
 ## Pricing
 
-Minimum price for listing a pokemon on the market is `10 Pokecoins`. The max price is calculated using the formula `Total User Coins + 15%`.
+Minimum price for listing a pokemon on the market is `120 Pokecoins`. The max price is calculated using the formula `Total User Coins + 15%`.
 :::details
 
 - `75 IV` or more `Common` pokemon yield `50 Pokecoins`.
