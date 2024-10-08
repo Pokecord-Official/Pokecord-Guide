@@ -25,7 +25,7 @@ Upon a successful sale, `5%` of the total sale value is deducted before the sell
 
 ## Jackpot
 
-There is a chance to hit a jackpot when selling a `75 IV` or more pokemon to the bot. The jackpot doubles the received pokecoin amount along with a a few additional rewards.
+There is a chance to hit a jackpot when selling a `75 IV` or more pokemon to the bot. The jackpot doubles the received pokecoin amount along with a few additional rewards.
 :::tip
-Higher IV pokemon yield better jackpot rewards. Rewards can include `10x Rare Candy`, `5x Vitamins`, `1x Gems`
+Higher IV pokemon yield better jackpot rewards.
 :::
