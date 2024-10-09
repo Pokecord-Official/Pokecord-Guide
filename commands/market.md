@@ -23,7 +23,7 @@ Users cannot buy their own pokemon.
 
 ## Selling
 
-Minimum price for listing a pokemon on the market is `120 Pokecoins`. The max price is calculated using the formula `Total + 15%` for `Legendary` rarity, the percentage value goes up by `5%` when moving up the rarity list.
+Minimum price for listing a pokemon on the market is `60 Pokecoins`. The max price is calculated using the formula `Total + 15%` for `Legendary` rarity, the percentage value goes up by `5%` when moving up the rarity list.
 :::info Market Fee
   Upon a successful sale, `5%` of the total sale value is deducted before the seller receives the amount.
 :::
