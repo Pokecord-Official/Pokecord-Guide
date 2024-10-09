@@ -21,10 +21,10 @@ Minimum price for listing a pokemon on the market is `120 Pokecoins`. The max pr
   Upon a successful sale, `5%` of the total sale value is deducted before the seller receives the amount.
 :::
 :::details
+- Pokemon buying limit is equal to `Total - 60` pokecoins.
 - `75 IV` or more `Common` pokemon yield `50 Pokecoins`.
 - `75 IV` or more `Regional` pokemon yield `60 Pokecoins`.
 - Both `Common` and `Regional` pokemon below `75 IV` yield `1x Rare Candy`.
-- Pokemon buying limit is equal to `Total - 60` pokecoins.
 :::
 
 ## Jackpot
