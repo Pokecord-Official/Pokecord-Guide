@@ -14,14 +14,20 @@ Pokemon with `Common` and `Regional` rarity can only be sold to the bot and cann
 - A user can only have `1` pokemon listed on the market at a time.
 :::
 
-## Pricing
+## Buying
+
+Pokemon buying limit is equal to `Total - 60` pokecoins. The buy button is disabled if a user is ineligible to buy a pokemon.
+:::tip
+Users cannot buy their own pokemon.
+:::
+
+## Selling
 
 Minimum price for listing a pokemon on the market is `120 Pokecoins`. The max price is calculated using the formula `Total + 15%` for `Legendary` rarity, the percentage value goes up by `5%` when moving up the rarity list.
 :::info Market Fee
   Upon a successful sale, `5%` of the total sale value is deducted before the seller receives the amount.
 :::
 :::details
-- Pokemon buying limit is equal to `Total - 60` pokecoins.
 - `75 IV` or more `Common` pokemon yield `50 Pokecoins`.
 - `75 IV` or more `Regional` pokemon yield `60 Pokecoins`.
 - Both `Common` and `Regional` pokemon below `75 IV` yield `1x Rare Candy`.
