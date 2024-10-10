@@ -25,10 +25,10 @@ This button is disabled if the user has less than `200` pokemon.
 :::details Examples
 - Min: 10 | Max: 10
 > Pokemon with IVs equal to `10%` are released.
-- Min: 0 | Max: 10.52
-> Pokemon with IVs `10.52% or less` are released.
+- Min: 0 | Max: 10.69
+> Pokemon with IVs `10.69% or less` are released.
 - Min: 10 | Max: 0
 > Pokemon with IVs `10% or more` are released.
-- Min 10 | Max: 49.99
-> Pokemon with IVs `10% or more` but `49.99% or less` are released.
+- Min 15.69 | Max: 50
+> Pokemon with IVs `15.69% or more` but `50% or less` are released.
 :::
