@@ -13,3 +13,19 @@ Searching for `common` and `regional` rarity is not supported.
 :::tip
 The search button can also be found in [/trade](/commands/trade.html), [/gift](/commands/gift.html) and [/breed](/commands/breed.html) messages.
 :::
+
+## Multi Release
+This is a lesser known feature of the view command that allows users to release multple pokemon from a given range of `IV` values. The `Release` button changes to `Multi Release` when viewing the selected pokemon. This button can only release pokemon that belong to `Common` and `Regional` rarity.
+:::info
+This button is disabled if the user has less than `200` pokemon.
+::: 
+:::details Examples
+- Min: 10% | Max: 10%
+> Pokemon with IVs equal to `10%` are released.
+- Min: 0 | Max: 10%
+> Pokemon with IVs `10% or less` are released.
+- Min: 10% | Max: 0
+> Pokemon with IVs `10% or more` are released.
+- Min 10% | Max: 50%
+> Pokemon with IVs `10% or more` but `50% or less` are released.
+:::
