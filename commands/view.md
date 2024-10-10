@@ -23,12 +23,12 @@ Pokemon present in the party are ignored irrespective of the IV values.
 This button is disabled if the user has less than `200` pokemon.
 ::: 
 :::details Examples
-- Min: 10% | Max: 10%
+- Min: 10 | Max: 10
 > Pokemon with IVs equal to `10%` are released.
-- Min: 0 | Max: 10%
-> Pokemon with IVs `10% or less` are released.
-- Min: 10% | Max: 0
+- Min: 0 | Max: 10.52
+> Pokemon with IVs `10.52% or less` are released.
+- Min: 10 | Max: 0
 > Pokemon with IVs `10% or more` are released.
-- Min 10% | Max: 50%
-> Pokemon with IVs `10% or more` but `50% or less` are released.
+- Min 10 | Max: 49.99
+> Pokemon with IVs `10% or more` but `49.99% or less` are released.
 :::
