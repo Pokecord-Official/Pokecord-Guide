@@ -16,6 +16,9 @@ The search button can also be found in [/trade](/commands/trade.html), [/gift](/
 
 ## Multi Release
 This is a lesser known feature of the view command that allows users to release multple pokemon from a given range of `IV` values. The `Release` button changes to `Multi Release` when viewing the selected pokemon. This button can only release pokemon that belong to `Common` and `Regional` rarity.
+:::tip
+Pokemon present in the party are ignored irrespective of the IV values.
+:::
 :::info
 This button is disabled if the user has less than `200` pokemon.
 ::: 
