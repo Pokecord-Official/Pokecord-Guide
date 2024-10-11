@@ -7,8 +7,7 @@ EVs or [effort value](https://bulbapedia.bulbagarden.net/wiki/Effort_values) poi
 - A maxed out an EV stat is indicated by a symbol next to it.
 :::
 :::info
-- Unlike the actual games, all EV's start with the default value set to `1` making the total equal to `6`.
-- `4` EV points round out to an increase of `1` stat point at level `100`.
+- Approximately `4` EV points round out to an increase of `1` stat point at level `100`.
 :::
 
 ## Items
