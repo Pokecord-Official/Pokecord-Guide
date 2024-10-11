@@ -23,12 +23,8 @@ Pokemon present in the party and pokemon holding an item are ignored.
 This button is disabled if the user has less than `200` pokemon.
 ::: 
 :::details Examples
-- Min: 10 | Max: 10
-> Pokemon with IVs equal to `10%` are released.
-- Min: 0 | Max: 10.69
-> Pokemon with IVs `10.69% or less` are released.
-- Min: 10 | Max: 0
-> Pokemon with IVs `10% or more` are released.
-- Min 15.69 | Max: 50
-> Pokemon with IVs `15.69% or more` but `50% or less` are released.
+1. **Min: 10 | Max: 10**: Releases pokemon with IVs equal to `10%`.
+2. **Min: 0 | Max: 10.69**: Releases pokemon with IVs `10.69% or less`.
+3. **Min: 10 | Max: 0**: Releases pokemon with IVs `10% or more`.
+4. **Min 15.69 | Max: 50**: Releases pokemon with IVs `15.69% or more` but `50% or less`.
 :::

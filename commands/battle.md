@@ -12,7 +12,8 @@ Cross server battles are pokemon battles where two eligible players in different
 :::details Matchmaking
 Cross server matchmaking depends on the following factors:<br>
 1. **Party Generation**: Party generation is equal to 9 if there is a generation 9 pokemon present in the party, otherwise 8. The algorithm will only match players with same party generations.<br>
-2. **Stake Value**: Users will only be matched with an opponent with a stake value of ± 15% of the provided amount unless 0.
+2. **Max Party Level**: Max party level is equal to the highest level pokemon in the party. The algorithm will match players with max party level of ± 5.
+3. **Stake Value**: Users will only be matched with an opponent with a stake value of ± 15% of the provided amount unless 0.
 :::
 ::: tip
 It is also possible to match players in the same server but different channels.

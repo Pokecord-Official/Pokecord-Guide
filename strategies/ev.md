@@ -6,8 +6,8 @@ EVs or [effort value](https://bulbapedia.bulbagarden.net/wiki/Effort_values) poi
 - Maxing out the EV threshold displays a symbol next to the IV percentage of the pokemon.
 - A maxed out an EV stat is indicated by a symbol next to it.
 :::
-:::info
-- Approximately `4` EV points round out to an increase of `1` stat point at level `100`.
+:::tip
+Approximately `4` EV points round out to an increase of `1` stat point at level `100`.
 :::
 
 ## Items
