@@ -25,12 +25,14 @@ Minimum price for listing a pokemon on the market is `60 Pokecoins`. The max pri
 :::info Market Fee
 Upon a successful sale, `5%` of the total sale value is deducted before the seller receives the amount.
 :::
+:::tip
+The button on the very right in the [/view](./view.html) message changes from `Remove Party` to `Add Market`.
+:::
 :::details
-
 - `75 IV` or more `Common` pokemon yield `50 Pokecoins`.
 - `75 IV` or more `Regional` pokemon yield `60 Pokecoins`.
 - Both `Common` and `Regional` pokemon below `75 IV` yield `1x Rare Candy`.
-  :::
+:::
 
 ## Jackpot
 

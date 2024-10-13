@@ -1,6 +1,6 @@
 # Profile
 
-This command is used to display a basic overview about the trainer along with information about `region`, `time`, `weather` and `moon phase` which are used for evolving pokemon.
+This command is used to display a basic overview about the trainer along with information about `region`, `time`, `weather` and `moon phase` which are used for breeding and evolutions.
 
 ## Last Active Status
 
