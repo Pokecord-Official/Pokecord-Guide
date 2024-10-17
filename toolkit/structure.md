@@ -4,7 +4,8 @@ The JSON file structure for each channel begins with ruletypes. The ruletypes in
 
 Example: `333749099897683980.json`
 ```json
-"1257054038332276860": { // Channel 1
+"1257054038332276860": {
+    "description": "Channel 1",
     "pokemon": {
         ...filters
         "legal":{
@@ -13,7 +14,8 @@ Example: `333749099897683980.json`
     },
     ...more ruletypes
     },
-"1209782242814070784": { // Channel 2
+"1209782242814070784": {
+    "description": "Channel 2",
     "pokemon": {
         ...filters
         "legal":{
@@ -27,10 +29,10 @@ Example: `333749099897683980.json`
 
 ## Modes
 
-There are two available modes, `legal` and `illegal`. Only one mode can be used per ruletype. The `legal` mode is enforced if both are populated with an exception of `pokemon`->`types`.
+There are two available modes, `legal` and `illegal`. Only one mode can be used per ruletype. The `legal` mode is enforced if both are populated.
 :::details Mode Exception
 
-- When adding a filter for `pokemon`->`legal`->`types`, pokemon that include one of the given types will be considered as a legal pokemon.
+- When adding a filter for `pokemon`->`legal`->`types`, pokemon that include one of the given types is considered as a legal pokemon.
   > Example:
   >
   > ```json
@@ -65,7 +67,7 @@ There are two available modes, `legal` and `illegal`. Only one mode can be used 
 :::
 :::info
 - If `pokemon`->`legal`->`species` is populated, `types` and `rarity` checks are ignored for the pokemon ruletype.
-- If `pokemon`->`illegal`->`species` is populated along with entries in `legal` mode, the pokemon is considered as illegal.
+- If `pokemon`->`illegal`->`species` is populated along with entries for `types` and `rarity` in `legal` mode, the pokemon species is considered as illegal.
 :::
 ## Filters
 
@@ -74,8 +76,8 @@ Both ruletypes and modes can have filters. Filter values are case sensitive and 
 Some pokemon species have special characters in their names. The [/info](../commands/info.html) command can be used to get the exact species of the pokemon.
 :::
 :::details Filter Schema
-- Values in `types`, `species` and `abilities` must use title case and each word should be separated by a space.
+- Values in `types`, `species` and `abilities` use title case and each word is separated by a space.
   > Example: `Ghost`, `Type: Null`, `Keen Eye`
-- Values in `rarity`, `names` and `items` must be in lower case and hyphenated.
+- Values in `rarity`, `names` and `items` are in lower case and hyphenated.
   > Example: `legendary`, `destiny-bond`, `leaders-crest`
 :::

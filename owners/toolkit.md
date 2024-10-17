@@ -7,7 +7,7 @@ Rulesets are only enforced in unstaked PvP battles.
 
 ## Getting Started
 
-Adding rulesets involves forking the GitHub repository, editing a JSON file and submitting it to the repository via a Pull Request (PR). Users and the servers that they're allowed to add rulesets for must be explicitly whitelisted. This is a manual process and requires an administrator of the server to get in touch.
+Adding rulesets involves forking the GitHub repository, editing a JSON file and submitting it to the repository via a Pull Request (PR). Users and the servers that they're allowed to add rulesets for need to be explicitly whitelisted. This is a manual process and requires an administrator of the server to get in touch.
 
 ## Submitting PR
 
