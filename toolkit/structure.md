@@ -30,22 +30,10 @@ Example: `333749099897683980.json`
 ## Modes
 
 There are two available modes, `legal` and `illegal`. Only one mode can be used per ruletype. The `legal` mode is enforced if both are populated.
+:::info
+When adding a filter for `pokemon`->`legal`->`types`, pokemon that include one of the given types are considered legal.
+:::
 :::details Mode Exceptions
-
-- When adding a filter for `pokemon`->`legal`->`types`, pokemon that include one of the given types is considered as a legal pokemon.
-  > Example:
-  >
-  > ```json
-  > "1257054038332276860": {
-  >  "pokemon": {
-  >         "legal":{
-  >             // Pokemon with types Grass + any other type are legal
-  >             "types": ["Grass"]
-  >         }
-  >     }
-  > },
-  >
-  > ```
 - In order to disable a combination of types, they can be added to `pokemon`->`illegal`->`types`.
   > Example:
   >
