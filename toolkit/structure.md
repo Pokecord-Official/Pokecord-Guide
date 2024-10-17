@@ -27,6 +27,19 @@ Example: `333749099897683980.json`
 }
 ```
 
+## Filters
+
+Both ruletypes and modes can have filters. Filter values are case sensitive and require specific delimiters. Mode filters are optional and can be left unchanged.
+:::tip
+Some pokemon species have special characters in their names. The [/info](../commands/info.html) command can be used to get the exact species name of the pokemon.
+:::
+:::details Filter Schema
+- Values in `types`, `species` and `abilities` use title case and each word is separated by a space.
+  > Example: `Ghost`, `Type: Null`, `Keen Eye`
+- Values in `rarity`, `names` and `items` are in lower case and hyphenated.
+  > Example: `legendary`, `destiny-bond`, `leaders-crest`
+:::
+
 ## Modes
 
 There are two available modes, `legal` and `illegal`. Only one mode can be used per ruletype. The `legal` mode is enforced if both are populated.
@@ -52,17 +65,4 @@ There are two available modes, `legal` and `illegal`. Only one mode can be used 
 :::details
 - If `pokemon`->`legal`->`species` is populated, `types` and `rarity` checks are ignored.
 - If `pokemon`->`illegal`->`species` is populated along with entries for `types` and `rarity` in `legal` mode, the pokemon is considered as illegal.
-:::
-
-## Filters
-
-Both ruletypes and modes can have filters. Filter values are case sensitive and require specific delimiters. Mode filters are optional and can be left unchanged.
-:::tip
-Some pokemon species have special characters in their names. The [/info](../commands/info.html) command can be used to get the exact species name of the pokemon.
-:::
-:::details Filter Schema
-- Values in `types`, `species` and `abilities` use title case and each word is separated by a space.
-  > Example: `Ghost`, `Type: Null`, `Keen Eye`
-- Values in `rarity`, `names` and `items` are in lower case and hyphenated.
-  > Example: `legendary`, `destiny-bond`, `leaders-crest`
 :::
