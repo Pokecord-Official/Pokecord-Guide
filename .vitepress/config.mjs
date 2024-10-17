@@ -47,14 +47,27 @@ export default defineConfig({
           { text: 'Pokecoins', link: '/strategies/earning.md' },
           { text: 'Badges', link: '/strategies/badges.md' },
           { text: 'Leveling Up', link: '/strategies/levelup.md' },
-          { text: 'EV Training', link: '/strategies/ev.md' },
-          { text: 'Active Servers', link: '/strategies/active.md' }
+          { text: 'EV Training', link: '/strategies/ev.md' }
+        ]
+      }, {
+        text: 'Server Owners',
+        collapsed: true,
+        items: [
+          { text: 'Active Servers', link: '/owners/active.md' },
+          {
+            text: 'Custom Rulesets',
+            link: '/owners/toolkit.md',
+            items: [
+              { text: 'Structure', link: '/toolkit/structure.md' }
+            ]
+          },
         ]
       }
     ],
 
     socialLinks: [
-      { icon: 'discord', link: 'https://pokecord.org/server' }
+      { icon: 'discord', link: 'https://pokecord.org/server' },
+      { icon: 'github', link: 'https://github.com/Jerick120/Pokecord-GymToolkit' }
     ]
   }
 })
