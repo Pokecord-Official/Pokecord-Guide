@@ -44,7 +44,7 @@ There are two available modes, `legal` and `illegal`. Only one mode can be used 
   > },
   >
   > ```
-- This might not always be the desired outcome in places where where a certain combination of types need to be disabled. In order to disable a combination of types, they must be added to `pokemon`->`illegal`->`types`.
+- This might not always be the desired outcome in places where a certain combination of types needs to be disabled. In order to disable a combination of types, they can be added to `pokemon`->`illegal`->`types`.
   > Example:
   >
   > ```json
