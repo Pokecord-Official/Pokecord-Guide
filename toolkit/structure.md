@@ -64,7 +64,8 @@ There are two available modes, `legal` and `illegal`. Only one mode can be used 
   >
 :::
 :::info
-If `pokemon`->`legal`->`species` is populated, `types` and `rarity` checks are ignored for the pokemon ruletype.
+- If `pokemon`->`legal`->`species` is populated, `types` and `rarity` checks are ignored for the pokemon ruletype.
+- If `pokemon`->`illegal`->`species` is populated along with entries in `legal` mode, the pokemon is considered as illegal.
 :::
 ## Filters
 
