@@ -75,19 +75,19 @@ Reward is doubled if you get lucky and hit the jackpot on your last vote.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859545129750548.png" width="40" height="40" style="margin-right:5px">Dynamo</div>
 
-Obtained by releasing a shiny pokemon into the wild using [/gift](/commands/gift.html).
-> Rewards: 
-> - `300` Pokecoins
-
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859602055106571.png" width="40" height="40" style="margin-right:5px">Icicle</div>
-
-Obtained by obtaining `Phione` from breeding while being original trainer of the parent.
+Obtained by releasing an original trainer shiny pokemon into the wild using [/gift](/commands/gift.html).
 > Rewards: 
 > - `300` Pokecoins
 :::details
 - Original trainer pokemon are pokemon that have been caught by the user from a wild spawn. 
 - Non-original pokemon display the User ID of the actual trainer in the footer of the [/view](/commands/view.html) message.
 :::
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859602055106571.png" width="40" height="40" style="margin-right:5px">Icicle</div>
+
+Obtained by obtaining `Phione` from breeding while being original trainer of the parent.
+> Rewards: 
+> - `300` Pokecoins
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1289536559292485673.png" width="40" height="40" style="margin-right:5px">Harmony</div>
 
