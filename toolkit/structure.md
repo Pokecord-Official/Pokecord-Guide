@@ -53,8 +53,8 @@ There are two available modes, `legal` and `illegal`. Only one mode can be used 
   >         "legal":{
   >             "types": ["Grass"]
   >         },
-  >             // Pokemon with types Grass + any other type are legal
-  >             // But Grass + Poison are illegal
+  >         // Pokemon with types Grass + any other type are legal
+  >         // But Grass + Poison are illegal
   >         "illegal":{
   >             "types": ["Poison"]
   >         }
