@@ -66,7 +66,10 @@ There are two available modes, `legal` and `illegal`. Only one mode can be used 
 
 ## Filters
 
-Both ruletypes and modes can have filters. Filter values are case sensitive and require specific delimiters. Mode filters are optional and can be left blank.
+Both ruletypes and modes can have filters. Filter values are case sensitive and require specific delimiters. Mode filters are optional and can be left unchanged.
+:::tip
+Some pokemon species have special characters in their names. The [/info](../commands/info.html) command can be used to get the exact species of the pokemon.
+:::
 :::details Filter Schema
 - Values in `types`, `species` and `abilities` must use title case and each word should be separated by a space.
   > Example: `Ghost`, `Type: Null`, `Keen Eye`
