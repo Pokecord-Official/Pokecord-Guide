@@ -50,7 +50,7 @@ export default defineConfig({
           { text: 'EV Training', link: '/strategies/ev.md' }
         ]
       }, {
-        text: 'Server Owners',
+        text: 'Admins',
         collapsed: true,
         items: [
           { text: 'Active Servers', link: '/owners/active.md' },
