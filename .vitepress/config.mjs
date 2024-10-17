@@ -53,10 +53,10 @@ export default defineConfig({
         text: 'Admins',
         collapsed: true,
         items: [
-          { text: 'Active Servers', link: '/owners/active.md' },
+          { text: 'Active Servers', link: '/admins/active.md' },
           {
             text: 'Custom Rulesets',
-            link: '/owners/toolkit.md',
+            link: '/admins/toolkit.md',
             items: [
               { text: 'Structure', link: '/toolkit/structure.md' }
             ]
