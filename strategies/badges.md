@@ -97,7 +97,7 @@ Obtained by obtaining a `90 IV` or higher `Chingling` from breeding during windy
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1290694195090292817.png" width="40" height="40" style="margin-right:5px">Bloodmoon</div>
 
-Obtained by teaching the move [Blood Moon](https://bulbapedia.bulbagarden.net/wiki/Blood_Moon_(move)) to `Bloodmoon Ursaluna` during a full moon night.
+Obtained by teaching the move [Blood Moon](https://bulbapedia.bulbagarden.net/wiki/Blood_Moon_(move)) to an original trainer `Bloodmoon Ursaluna` during a full moon night.
 > Rewards: 
 > - `400` Pokecoins
 
