@@ -36,7 +36,7 @@ Some pokemon species have special characters in their names. The [/info](../comm
 :::details Filter Schema
 - Values in `types`, `species` and `abilities` use title case and each word is separated by a space.
   > Example: `Ghost`, `Type: Null`, `Keen Eye`
-- Values in `rarity`, `names` and `items` are in lower case and hyphenated.
+- Values in `allowedRarities`, `names` and `items` are in lower case and hyphenated.
   > Example: `legendary`, `destiny-bond`, `leaders-crest`
 :::
 
@@ -63,6 +63,6 @@ There are two available modes, `legal` and `illegal`. Only one mode can be used 
  ```
 - The `species` filter for `pokemon` ruletype always takes priority.
 :::details
-- If `pokemon`->`legal`->`species` is populated, `types` and `rarity` checks are ignored.
-- If `pokemon`->`illegal`->`species` is populated along with entries for `types` and `rarity` in `legal` mode, the pokemon is considered as illegal.
+- If `pokemon`->`legal`->`species` is populated, `types` checks are ignored.
+- If `pokemon`->`illegal`->`species` is populated along with entry for `types` in `legal` mode, the pokemon is considered as illegal.
 :::
