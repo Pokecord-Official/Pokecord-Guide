@@ -45,6 +45,7 @@ Some pokemon species have special characters in their names. The [/info](../comm
 There are two available modes, `legal` and `illegal`. Only one mode can be used per ruletype. The `legal` mode is enforced if both are populated.
 
 ### Mode Exceptions
+
 - When adding a filter for `pokemon`->`legal`->`types`, pokemon that include one of the given types are considered legal. To disable a combination of pokemon types, they can be added to `pokemon`->`illegal`->`types`.
 > Example:
  ```json
@@ -61,8 +62,4 @@ There are two available modes, `legal` and `illegal`. Only one mode can be used 
      }
  },
  ```
-- The `species` filter for `pokemon` ruletype always takes priority.
-:::details
-- If `pokemon`->`legal`->`species` is populated, `types` checks are ignored.
-- If `pokemon`->`illegal`->`species` is populated along with entry for `types` in `legal` mode, the pokemon is considered as illegal.
-:::
+- The `species` filter for `pokemon` ruletype always takes priority. If this filter is populated in either mode, `types` check is ignored.
