@@ -37,7 +37,7 @@ Some pokemon species have special characters in their names. The [/info](../comm
 - Values in `types`, `species` and `abilities` use title case and each word is separated by a space.
   > Example: `Ghost`, `Type: Null`, `Keen Eye`
 - Values in `allowedRarities`, `names` and `items` are in lower case and hyphenated.
-  > Example: `legendary`, `destiny-bond`, `leaders-crest`
+  > Example: `legendary`, `destiny-bond`, `kings-rock`
 :::
 
 ## Modes
