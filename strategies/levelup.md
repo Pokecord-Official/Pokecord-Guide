@@ -15,5 +15,5 @@ Experience and effort value points can only be obtained through staked battles, 
 
 Items such as [Exp Share](https://bulbapedia.bulbagarden.net/wiki/Exp._Share), [Exp Charm](https://bulbapedia.bulbagarden.net/wiki/Exp._Charm) and [Lucky Egg](https://bulbapedia.bulbagarden.net/wiki/Lucky_Egg) can be used to level up your pokemon a lot faster.
 :::tip
-All of the mentioned items can be used together to boost the experience gain even further
+All of the mentioned items can be used together to boost the experience gain even further.
 :::

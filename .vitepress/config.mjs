@@ -58,7 +58,7 @@ export default defineConfig({
             text: 'Custom Rulesets',
             link: '/admins/toolkit.md',
             items: [
-              { text: 'Structure', link: '/toolkit/structure.md' }
+              { text: 'Ruleset Structure', link: '/toolkit/structure.md' }
             ]
           },
         ]
