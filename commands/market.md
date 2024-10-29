@@ -2,7 +2,7 @@
 
 Market can be used to sell eligible pokemon to the bot or to other players. The market is designed to prevent spam entries and unreasonable prices and comes with strict quality and inflation control. This design comes with a few limitations and a small learning curve.
 :::warning Notice
-Market notifications are sent via direct message. Users with their DMs disabled wont receive this information.
+Market notifications are sent via direct messages. Users with their DMs disabled wont receive any notifications.
 :::
 
 ## Eligibility
