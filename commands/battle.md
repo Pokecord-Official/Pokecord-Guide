@@ -4,11 +4,11 @@ This command is used for `Player vs Player`, `Cross Server` or `AI Trainer` poke
 
 ## Player vs Player
 
-In order to challenge another player for a pokemon battle, the user must specify the `opponent` option. If the mentioned opponent accepts the challenge before it times out, the battle begins.
+To challenge another player for a pokemon battle, the `opponent` option must be specified. If the mentioned opponent accepts the challenge before it times out, the battle starts.
 
 ## Cross Server
 
-Cross server battles are pokemon battles where two eligible players in different discord servers can battle each other. To start a cross server battle, the user must use the command without mentioning the `opponent` option.
+Cross server battles are pokemon battles where two eligible players in different discord servers can battle each other. To start a cross server battle, the command needs to be used without mentioning the `opponent` option.
 :::details Matchmaking
 Cross server matchmaking depends on the following factors:<br>
 1. **Party Generation**: Party generation is equal to 9 if there is a generation 9 pokemon present in the party, otherwise 8. The algorithm will only match players with same party generations.<br>
@@ -20,7 +20,7 @@ It is also possible to match players in the same server but different channels.
 :::
 ## AI Trainer
 
-If a cross server matchmaking fails or times out, the user is matched with an AI trainer. AI trainer battles always have a stake value of 0. The AI will always have the same number of pokemon as the player. The levels of the opponent pokemon cannot be higher than the max leveled pokemon in the player's party.
+If a cross server matchmaking fails or times out, the user is matched with an AI trainer. AI trainer battles always have a stake value of 0. The AI will always have the same number of pokemon as the player. The levels of the opponent pokemon cannot be higher than the max party level of the challenger.
 :::tip
 Despite the stake value, an AI Trainer battle will always yield experience points, effort value points and happiness upon winning.
 :::

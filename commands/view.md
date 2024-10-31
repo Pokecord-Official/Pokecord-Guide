@@ -6,7 +6,7 @@ The very first select menu is used to select a pokemon while the rest of the men
 :::
 
 ## Search
-The 🔍 button can be used to search for pokemon. Search can contain rarity keywords like `legendary`, `mythical`, `ultrabeast`, `paradox` and `special` in addition to pokemon names and dex numbers. The keyword `all` can be used to view all pokemon after a previous search.
+The 🔍 button can be used to search for pokemon. Search can contain keywords for rarities like `legendary`, `mythical`, `ultrabeast`, `paradox` and `special` in addition to pokemon names and dex numbers. The keyword `all` can be used to view all pokemon after a previous search.
 :::info
 Searching for `common` and `regional` rarity is not supported.
 :::
