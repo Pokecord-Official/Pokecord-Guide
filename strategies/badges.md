@@ -1,6 +1,6 @@
 # Achievement Badges
 
-Badge hunting is one of the best ways to earn a lot of pokecoins very quickly. Some badges are a lot harder to obtain than others and will be a lot more rare. All badges come with pokecoin rewards.
+Badge hunting is one of the best ways to earn a lot of pokecoins very quickly. Some badges are a lot harder to obtain than others and will be a lot more rare. All badges come with rewards.
 :::tip
 Badges can be viewed by using the [/profile](/commands/profile.html) command.
 :::
