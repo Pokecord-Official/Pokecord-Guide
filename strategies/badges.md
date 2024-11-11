@@ -14,7 +14,7 @@ Obtained by becoming a [premium](https://buymeacoffee.com/pokecord/membership) m
 Obtained by getting unlucky and missing your chance to get a shiny after using [Relic Platinum](https://pokecord.org/relics).
 > Rewards: 
 > - `69` Pokecoins
-> - `69` Gems
+> - `500` Gems
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859638390100090.png" width="40" height="40" style="margin-right:5px">Mine</div>
 
