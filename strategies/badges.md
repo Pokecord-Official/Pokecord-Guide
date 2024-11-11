@@ -24,7 +24,7 @@ This is the very first badge that every user receives for picking a starter poke
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859565921046642.png" width="40" height="40" style="margin-right:5px">Feather</div>
 
-Obtained by reaching max friendship with selected pokemon through level-up.
+Obtained by reaching max friendship with selected pokemon.
 > Rewards: 
 > - `60` Pokecoins
 
