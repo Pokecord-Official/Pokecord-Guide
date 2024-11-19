@@ -11,6 +11,6 @@ This value only updates when the trainer catches or walks away after winning a s
 
 The icons displayed when viewing the trainer profile are called achievement badges. Users can earn badges by completing certain tasks in the bot. These tasks are always kept up to date in the [badges](../strategies/badges.html) section.
 
-## Active Key Items
+## Key Items
 
-[Key items](https://bulbapedia.bulbagarden.net/wiki/Key_Item) are items that have a global effect on all pokemon.  These items appear in a select menu at the bottom of the profile message indicating that they're active.
+[Key items](https://bulbapedia.bulbagarden.net/wiki/Key_Item) are items that have a global effect on all pokemon. These items appear in a select menu at the bottom of the profile message.
