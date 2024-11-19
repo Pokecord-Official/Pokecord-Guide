@@ -9,7 +9,7 @@ The economy is designed to keep inflation under strict control while still makin
 
 ## Voting
 
-Voting for Pokecord++ on [Top.gg](https://top.gg/bot/818836234104602635/vote) can yield up to 10 pokecoins. There is a chance to hit a jackpot after each vote that can double your reward.<br>
+Voting for Pokecord++ on [Top.gg](https://top.gg/bot/818836234104602635/vote) can yield up to 10 pokecoins. There is a chance to hit a jackpot after each vote that can double your reward and activate the [Rare Element](https://pokecord.org/items).<br>
 :::warning Notice
 Vote reward notifications are sent via direct messages. Users with their DMs disabled wont receive any notifications.
 :::
