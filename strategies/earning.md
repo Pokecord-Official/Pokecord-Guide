@@ -24,7 +24,7 @@ Completing achievements and earning badges is the best way to earn a lot of poke
 
 ## AI Trainer
 
-The professor rewards you with `5` pokecoins upon winning every AI trainer battle.
+AI trainer battles can yield up to `30` pokecoins per battle. The professor rewards you with `5` pokecoins per pokemon upon winning every battle.
 
 ## Amulet Coin
 

@@ -22,7 +22,7 @@ export default defineConfig({
     sidebar: [
       {
         text: 'Commands',
-        collapsed: false,
+        collapsed: true,
         items: [
           { text: '/profile', link: '/commands/profile.md' },
           { text: '/battle', link: '/commands/battle.md' },
@@ -43,7 +43,6 @@ export default defineConfig({
         text: 'Strategies',
         collapsed: true,
         items: [
-          { text: 'Limits', link: '/strategies/limits.md' },
           { text: 'Pokecoins', link: '/strategies/earning.md' },
           { text: 'Badges', link: '/strategies/badges.md' },
           { text: 'Leveling Up', link: '/strategies/levelup.md' },
@@ -58,9 +57,14 @@ export default defineConfig({
             text: 'Custom Rulesets',
             link: '/admins/toolkit.md',
             items: [
-              { text: 'Ruleset Structure', link: '/toolkit/structure.md' }
+              { text: 'Ruleset Structure', link: '/admins/toolkitStructure.md' }
             ]
           },
+        ]
+      }, {
+        items: [
+          { text: 'Limits', link: '/other/limits.md' },
+          { text: 'Custom Items', link: '/other/items.md' }
         ]
       }
     ],

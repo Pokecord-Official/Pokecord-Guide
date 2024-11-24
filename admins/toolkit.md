@@ -1,6 +1,6 @@
 # Custom Rulesets
 
-The `Gym Toolkit` allows server owners to add custom battle rulesets per channel. This is a more advanced feature of the bot and requires basic knowledge of [JSON](https://json.org) file format, [Git](https://git-scm.com/) and [GitHub](https://docs.github.com/en).
+The `Gym Toolkit` allows server owners to add custom battle rulesets per channel. This is a more advanced feature of the bot and requires a basic knowledge of the [JSON](https://json.org) file format, [Git](https://git-scm.com/) and [GitHub](https://docs.github.com/en).
 :::info
 Rulesets are only enforced in unstaked PvP battles.
 :::
