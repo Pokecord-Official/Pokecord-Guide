@@ -144,6 +144,6 @@ Obtained by reaching a `800` win streak. Replaces the [expert](#expert) badge.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311266335451385856.png" width="40" height="40" style="margin-right:5px">Legend</div>
 
-Obtained by reaching a `1000` win streak. Replaces the [expert](#master) badge.
+Obtained by reaching a `1000` win streak. Replaces the [master](#master) badge.
 > Rewards
 > - `9999` Pokecoins
