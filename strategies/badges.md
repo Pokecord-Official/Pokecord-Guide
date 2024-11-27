@@ -47,7 +47,7 @@ Obtained by selling a `Piplup` to `Trainer Dawn` and hitting a jackpot.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311252794078134292.png" width="40" height="40" style="margin-right:5px">Cascade</div>
 
-Obtained by selling a `Water` type pokemon to `Misty` and hitting a jackpot.
+Obtained by selling a `Water` type pokemon to `Gym Leader Misty` and hitting a jackpot.
 > Rewards: 
 > - `200` Pokecoins
 
@@ -138,12 +138,12 @@ Obtained by reaching a `500` win streak.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311266310956515398.png" width="40" height="40" style="margin-right:5px">Master</div>
 
-Obtained by reaching a `800` win streak. Replaces the [expert](#expert) badge.
+Obtained by reaching a `800` win streak. Replaces the [Expert](#expert) badge.
 > Rewards
 > - `6666` Pokecoins
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311266335451385856.png" width="40" height="40" style="margin-right:5px">Legend</div>
 
-Obtained by reaching a `1000` win streak. Replaces the [master](#master) badge.
+Obtained by reaching a `1000` win streak. Replaces the [Master](#master) badge.
 > Rewards
 > - `9999` Pokecoins
