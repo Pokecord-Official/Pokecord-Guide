@@ -5,7 +5,7 @@ Badge hunting is one of the best ways to earn a lot of pokecoins very quickly. S
 Badges can be viewed by using the [/profile](/commands/profile.html) command.
 :::
 
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859656245252127.png" width="40" height="40" style="margin-right:5px">Relic</div>
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311251933461352509.png" width="40" height="40" style="margin-right:5px">Premium</div>
 
 Obtained by becoming a [premium](https://buymeacoffee.com/pokecord/membership) member. This badge disappears if the membership ends.
 
@@ -21,17 +21,11 @@ This is the very first badge that every user receives for picking a starter poke
 > Rewards: 
 > - `60` Pokecoins
 
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859565921046642.png" width="40" height="40" style="margin-right:5px">Feather</div>
-
-Obtained by reaching max friendship with selected pokemon.
-> Rewards: 
-> - `60` Pokecoins
-
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859585332154469.png" width="40" height="40" style="margin-right:5px">Freedom</div>
 
 Obtained by winning a `1v6` staked PvP match.
 > Rewards: 
-> - `60` Pokecoins
+> - `100` Pokecoins
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859709261254781.png" width="40" height="40" style="margin-right:5px">Volcano</div>
 
@@ -43,7 +37,19 @@ Obtained by triggering `6` evolutions in a single battle.
 
 Obtained by selling a `Medicham` to `Trainer Mindy` and hitting a jackpot.
 > Rewards: 
-> - `100` Pokecoins
+> - `200` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311296459521654817.png" width="40" height="40" style="margin-right:5px">Iceberg</div>
+
+Obtained by selling a `Piplup` to `Trainer Dawn` and hitting a jackpot.
+> Rewards: 
+> - `200` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311252794078134292.png" width="40" height="40" style="margin-right:5px">Cascade</div>
+
+Obtained by selling a `Water` type pokemon to `Misty` and hitting a jackpot.
+> Rewards: 
+> - `200` Pokecoins
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859474308927560.png" width="40" height="40" style="margin-right:5px">Beacon</div>
 
@@ -86,12 +92,6 @@ Obtained by releasing an original trainer shiny pokemon into the wild using [/gi
 
 Obtained by obtaining `Phione` from breeding while being original trainer of the parent.
 > Rewards: 
-> - `300` Pokecoins
-
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1289536559292485673.png" width="40" height="40" style="margin-right:5px">Harmony</div>
-
-Obtained by obtaining a `90 IV` or higher `Chingling` from breeding during windy weather.
-> Rewards: 
 > - `400` Pokecoins
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1290694195090292817.png" width="40" height="40" style="margin-right:5px">Bloodmoon</div>
@@ -100,15 +100,27 @@ Obtained by teaching the move [Blood Moon](https://bulbapedia.bulbagarden.net/wi
 > Rewards: 
 > - `400` Pokecoins
 
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859527279054879.png" width="40" height="40" style="margin-right:5px">Cobble</div>
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859565921046642.png" width="40" height="40" style="margin-right:5px">Feather</div>
 
-Obtained by catching a shiny pokemon from a wild spawn.
+Obtained by reaching max friendship with selected pokemon.
 > Rewards: 
-> - `600` Pokecoins
+> - `500` Pokecoins
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1290694012012855348.png" width="40" height="40" style="margin-right:5px">Rumble</div>
 
-Obtained by winning `1000` staked PvP matches.
+Obtained by winning `100` staked PvP matches.
+> Rewards: 
+> - `500` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1289536559292485673.png" width="40" height="40" style="margin-right:5px">Harmony</div>
+
+Obtained by obtaining a `90 IV` or higher `Chingling` from breeding during windy weather.
+> Rewards: 
+> - `1000` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859527279054879.png" width="40" height="40" style="margin-right:5px">Cobble</div>
+
+Obtained by catching a shiny pokemon from a wild spawn.
 > Rewards: 
 > - `1000` Pokecoins
 
@@ -116,4 +128,22 @@ Obtained by winning `1000` staked PvP matches.
 
 Obtained by catching a `95 IV` or higher pokemon from a wild spawn.
 > Rewards: 
-> - `1000` Pokecoins
+> - `2000` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311266281416032327.png" width="40" height="40" style="margin-right:5px">Expert</div>
+
+Obtained by reaching a `500` win streak.
+> Rewards
+> - `3333` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311266310956515398.png" width="40" height="40" style="margin-right:5px">Master</div>
+
+Obtained by reaching a `800` win streak. Replaces the [expert](#expert) badge.
+> Rewards
+> - `6666` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311266335451385856.png" width="40" height="40" style="margin-right:5px">Legend</div>
+
+Obtained by reaching a `1000` win streak. Replaces the [expert](#master) badge.
+> Rewards
+> - `9999` Pokecoins

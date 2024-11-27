@@ -2,7 +2,7 @@
 
 We have tried our best to make sure that all mechanics in Pokecord++ are as accurate as possible. To keep things fun and interesting, we have introduced a few of our own items.
 
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859656245252127.png" width="40" height="40" style="margin-right:5px">Relics</div>
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311293123430846534.png" width="40" height="40" style="margin-right:5px">Relics</div>
 
 Relics are special consumable items in the [shop](/commands/shop.md) that have a percentage chance to turn an existing pokemon into a shiny. Every relic also provides a guaranteed iV boost to the pokemon. The three types of relics with their exact percentage values
 are provided below.

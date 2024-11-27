@@ -63,8 +63,8 @@ export default defineConfig({
         ]
       }, {
         items: [
-          { text: 'Custom Items', link: '/other/items.md' },
-          { text: 'Limits', link: '/other/limits.md' }
+          { text: 'Custom Items', link: '/items.md' },
+          { text: 'Limits', link: '/limits.md' }
         ]
       }
     ],
