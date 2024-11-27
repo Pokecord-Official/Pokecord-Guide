@@ -108,7 +108,7 @@ Obtained by reaching max friendship with selected pokemon.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1290694012012855348.png" width="40" height="40" style="margin-right:5px">Rumble</div>
 
-Obtained by winning `100` staked PvP matches.
+Obtained by winning `200` staked PvP matches.
 > Rewards: 
 > - `500` Pokecoins
 
