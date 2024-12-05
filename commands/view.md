@@ -5,6 +5,13 @@ This is an all in one command that is used to quickly view and edit your pokemon
 The very first select menu is used to select a pokemon while the rest of the menus are used to perform actions on the selected pokemon. 
 :::
 
+## Symbols
+There are a few symbols displayed next to some stat values that indicate various conditions of a pokemon.
+- `✦` : Stat has reached max [EV](../strategies/ev.md).
+- `✧` : Reached Max [EV](../strategies/ev.md) threshold.
+- `⌬` : Indicates bred pokemon.
+- `▲` : Indicates IV reroll by [Magic Flute](../items.md#magic-flute).
+
 ## Search
 The 🔍 button can be used to search for pokemon. Search can contain keywords for rarities like `legendary`, `mythical`, `ultrabeast`, `paradox` and `special` in addition to pokemon names and dex numbers. The keyword `all` can be used to view all pokemon after a previous search.
 :::info

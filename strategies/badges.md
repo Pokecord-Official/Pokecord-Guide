@@ -27,9 +27,16 @@ Obtained by winning a `1v6` staked PvP match.
 > Rewards: 
 > - `100` Pokecoins
 
+
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859709261254781.png" width="40" height="40" style="margin-right:5px">Volcano</div>
 
 Obtained by triggering `6` evolutions in a single battle.
+> Rewards: 
+> - `100` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1314099862786146385.png" width="40" height="40" style="margin-right:5px">Proud</div>
+
+Obtained by correctly guessing the pokemon on first attempt in [Hangmon](../commands/daily.md).
 > Rewards: 
 > - `100` Pokecoins
 
