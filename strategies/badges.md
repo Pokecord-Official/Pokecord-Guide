@@ -36,7 +36,7 @@ Obtained by triggering `6` evolutions in a single battle.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1314099862786146385.png" width="40" height="40" style="margin-right:5px">Proud</div>
 
-Obtained by correctly guessing the pokemon on first attempt in [Hangmon](../commands/daily.md).
+Obtained by correctly guessing the pokemon on first attempt in [Hangmon](../commands/hangmon.md).
 > Rewards: 
 > - `100` Pokecoins
 
