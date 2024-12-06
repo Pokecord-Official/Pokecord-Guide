@@ -65,6 +65,7 @@ export default defineConfig({
       }, {
         items: [
           { text: 'Custom Items', link: '/items.md' },
+          { text: 'Timeouts', link: '/timeouts.md' },
           { text: 'Limits', link: '/limits.md' }
         ]
       }

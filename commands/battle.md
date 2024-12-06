@@ -1,6 +1,6 @@
 # Battles
 
-This command is used for `Player vs Player`, `Cross Server` or `AI Trainer` pokemon battles. The command has two optional arguments, `opponent` and `stake`. 
+This command is used for `Player vs Player`, `Cross Server` or `AI Trainer` pokemon battles. The command has two optional arguments, `opponent` and `stake`.
 
 ## Player vs Player
 
@@ -11,6 +11,7 @@ To challenge another player for a pokemon battle, the `opponent` option must be 
 Cross server battles are pokemon battles where two eligible players in different discord servers can battle each other. To start a cross server battle, the command needs to be used without mentioning the `opponent` option.
 :::details Matchmaking
 Cross server matchmaking depends on the following factors:<br>
+
 1. **Party Generation**: Party generation is equal to 9 if there is a generation 9 pokemon present in the party, otherwise 8. The algorithm will only match players with same party generations.<br>
 2. **Max Party Level**: Max party level is equal to the highest level pokemon in the party. The algorithm will match players with max party level of ± 5.
 3. **Stake Value**: Users will only be matched with an opponent with a stake value of ± 15% of the provided amount unless 0.
@@ -18,6 +19,7 @@ Cross server matchmaking depends on the following factors:<br>
 ::: tip
 It is also possible to match players in the same server but different channels.
 :::
+
 ## AI Trainer
 
 If a cross server matchmaking fails or times out, the user is matched with an AI trainer. AI trainer battles always have a stake value of 0. The AI will always have the same number of pokemon as the player. The levels of the opponent pokemon cannot be higher than the max party level of the challenger.
@@ -33,9 +35,6 @@ Upon a successful win, `5%` of the total stake value is deducted before the winn
 :::
 :::tip
 The `Total Wins` displayed on the profile are the amount of staked battles won by the player. A win is only considered for a complete battle, forfeitting a battle does not count as a win for the opponent.
-:::
-:::warning
-Forfeitting a staked PvP or Cross Server battle results in a loss of `10` pokecoins and reduction of happiness value of all pokemon in the party.
 :::
 
 ## Battle Actions
