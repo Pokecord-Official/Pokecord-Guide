@@ -29,14 +29,14 @@ Upon a successful sale, `5%` of the total sale value is deducted before the sell
 The button on the very right in the [/view](./view.html) message changes from `Remove Party` to `Add Market`.
 :::
 :::details
-- `75 IV` or more `Common` pokemon yield `50 Pokecoins`.
-- `75 IV` or more `Regional` pokemon yield `60 Pokecoins`.
-- Both `Common` and `Regional` pokemon below `75 IV` yield `1x Rare Candy`.
+- `72 IV` or more `Common` pokemon yield `50 Pokecoins`.
+- `72 IV` or more `Regional` pokemon yield `60 Pokecoins`.
+- Both `Common` and `Regional` pokemon below `72 IV` yield `1x Rare Candy`.
 :::
 
 ## Jackpot
 
-There is a chance to hit a jackpot when selling a `75 IV` or more pokemon to the bot. The jackpot doubles the received pokecoin amount along with a few additional rewards.
+There is a chance to hit a jackpot when selling a `72 IV` or more pokemon to the bot. The jackpot doubles the received pokecoin amount along with a few additional rewards.
 :::tip
 Higher IV pokemon yield better jackpot rewards.
 :::
