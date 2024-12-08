@@ -8,6 +8,9 @@ Most interactions time out after `60` seconds of inactivity.
 For staked [PvP](./commands/battle.md#stakes) or [Cross Server](./commands/battle.md#cross-server) battles, forfeiting or timing out results in the following penalties:
 - A loss of `10` pokecoins.
 - A decrease in the happiness value of all pokemon in the party.
+:::tip
+If the battle times out or is forfeited at turn `0` and neither player has selected a move, no penalty is applied.
+:::
 
 ## Unstaked Battles
 For unstaked battles (except [AI Trainer](./commands/battle.md#ai-trainer) battles) forfeit or timeout results in a decrease in the happiness value of all pokemon in the party. <br>
