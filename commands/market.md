@@ -40,3 +40,38 @@ There is a chance to hit a jackpot when selling a `72 IV` or more pokemon to the
 :::tip
 Higher IV pokemon yield better jackpot rewards.
 :::
+
+## Mystery Shop
+
+The Mystery Shop is located at the top section of the market, offering pokemon with hidden IV% values capped between `76%` and `95%`. Players have two options:
+
+1. Purchase the pokemon directly using **coins** or **gems**.
+2. Choose to reveal the IV% before buying. However, revealing the IV% increases the price.
+
+Below is the pricing structure for Pokémon after their IV% is revealed based on their rarity and IV% value:
+
+### Price List (Revealed IV%)
+
+#### Paradox
+- IV 90% or above:  
+  💰 16,000 Coins | 💎 250 Gems  
+- IV 89% or below:  
+  💰 14,000 Coins | 💎 225 Gems  
+
+#### Mythical
+- IV 90% or above:  
+  💰 14,000 Coins | 💎 225 Gems  
+- IV 89% or below:  
+  💰 12,000 Coins | 💎 200 Gems  
+
+#### Legendary
+- IV 90% or above:  
+  💰 12,000 Coins | 💎 200 Gems  
+- IV 89% or below:  
+  💰 10,000 Coins | 💎 175 Gems  
+
+#### Ultra Beast
+- IV 90% or above:  
+  💰 10,000 Coins | 💎 175 Gems  
+- IV 89% or below:  
+  💰 8,000 Coins | 💎 150 Gems  
