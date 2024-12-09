@@ -31,7 +31,7 @@ Example: `333749099897683980.json`
 
 Both ruletypes and modes can have filters. Filter values are case sensitive and require specific delimiters. Mode filters are optional and can be left unchanged.
 :::tip
-Some pokemon species have special characters in their names. The [/info](../commands/info.html) command can be used to get the exact species name of the pokemon.
+Some Pokémon species have special characters in their names. The [/info](../commands/info.html) command can be used to get the exact species name of the Pokémon.
 :::
 :::details Filter Schema
 - Values in `types`, `species` and `abilities` use title case and each word is separated by a space.
@@ -46,7 +46,7 @@ There are two available modes, `legal` and `illegal`. Only one mode can be used 
 
 ### Mode Exceptions
 
-- When adding a filter for `pokemon`->`legal`->`types`, pokemon that include one of the given types are considered legal. To disable a combination of pokemon types, they can be added to `pokemon`->`illegal`->`types`.
+- When adding a filter for `pokemon`->`legal`->`types`, Pokémon that include one of the given types are considered legal. To disable a combination of Pokémon types, they can be added to `pokemon`->`illegal`->`types`.
 > Example:
  ```json
  "1257054038332276860": {
@@ -54,7 +54,7 @@ There are two available modes, `legal` and `illegal`. Only one mode can be used 
          "legal":{
              "types": ["Grass"]
          },
-         // Pokemon with types Grass + any other type are legal
+         // Pokémon with types Grass + any other type are legal
          // But Grass + Poison are illegal
          "illegal":{
              "types": ["Poison"]

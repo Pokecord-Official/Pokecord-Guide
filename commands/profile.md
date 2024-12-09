@@ -1,6 +1,6 @@
 # Profile
 
-This command is used to display a basic overview about the trainer along with information about `region`, `time`, `weather` and `moon phase` which are used for breeding and evolutions.
+This command is used to display a basic overview about the trainer along with information about `region`, `time`, `day`, `weather` and `moon phase` which are used for breeding and evolutions.
 
 ## Last Active Status
 
@@ -13,4 +13,4 @@ The icons displayed when viewing the trainer profile are called achievement badg
 
 ## Key Items
 
-[Key items](https://bulbapedia.bulbagarden.net/wiki/Key_Item) are items that have a global effect on all pokemon. These items appear in a select menu at the bottom of the profile message.
+[Key items](https://bulbapedia.bulbagarden.net/wiki/Key_Item) are items that have a global effect on all Pokémon. These items appear in a select menu at the bottom of the profile message.

@@ -2,7 +2,7 @@
 
 The official website has a live [list](https://pokecord.org/active) of discord servers that allows competitive players to explore new places to battle and trade with others. The `Catch` and `Walk Away` buttons are the only two interactions on the bot that can bump a server to the top of the list. 
 :::tip
-The Server is only bumped if one or more pokemon gain [experience](../strategies/levelup.html).
+The Server is only bumped if one or more Pokémon gain [experience](../strategies/levelup.html).
 :::
 
 ## Registration

@@ -4,7 +4,7 @@ We have tried our best to make sure that all mechanics in Pokecord++ are as accu
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311293123430846534.png" width="40" height="40" style="margin-right:5px">Relics</div>
 
-Relics are special consumable items in the [shop](/commands/shop.md) that have a percentage chance to turn an existing pokemon into a shiny. Every relic also provides a guaranteed iV boost to the pokemon. The three types of relics with their exact percentage values
+Relics are special consumable items in the [shop](/commands/shop.md) that have a percentage chance to turn an existing Pokémon into a shiny. Every relic also provides a guaranteed iV boost to the Pokémon. The three types of relics with their exact percentage values
 are provided below.
 
 > ### <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1276958334452502619.png" width="40" height="40" style="margin-right:5px">Relic Platinum</div>
@@ -35,4 +35,4 @@ Rare energy is a consumable item that re-activates the Rare Element. This item c
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1310098780787445862.png" width="40" height="40" style="margin-right:5px">Magic Flute</div>
 
-Magic flute is a consumable item in the [shop](/commands/shop.md) that can be used to reroll a pokemon's ivs. This item cannot be used on the same pokemon if the new value is higher than the original.
+Magic flute is a consumable item in the [shop](/commands/shop.md) that can be used to reroll a Pokémon's ivs. This item cannot be used on the same Pokémon if the new value is higher than the original.

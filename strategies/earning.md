@@ -3,7 +3,7 @@
 The economy is designed to keep inflation under strict control while still making sure that earning pokecoins is easy and accessible. This ensures that the value per coin is a lot higher than any other economy system on discord.
 :::details
 
-- Pokemon yield `1` pokecoin per level up.
+- Pokémon yield `1` pokecoin per level up.
 - Level up evolution bonus is calculated using the formula `Level * 0.1` rounded up.
   :::
 
@@ -16,7 +16,7 @@ Vote reward notifications are sent via direct messages. Users with their DMs dis
 
 ## Market
 
-The [market](../commands/market.html) allows users to sell eligible pokemon to the bot or to other players. This is not only one of the easier methods to earn pokecoins but also an easy way to level up your existing pokemon as some pokemon can be exchanged for [Rare Candies](https://bulbapedia.bulbagarden.net/wiki/Rare_Candy).
+The [market](../commands/market.html) allows users to sell eligible Pokémon to the bot or to other players. This is not only one of the easier methods to earn pokecoins but also an easy way to level up your existing Pokémon as some Pokémon can be exchanged for [Rare Candies](https://bulbapedia.bulbagarden.net/wiki/Rare_Candy).
 
 ## Badges
 
@@ -24,7 +24,7 @@ Completing achievements and earning badges is the best way to earn a lot of poke
 
 ## AI Trainer
 
-AI trainer battles can yield up to `30` pokecoins per battle. The professor rewards you with `5` pokecoins per pokemon upon winning every battle.
+AI trainer battles can yield up to `30` pokecoins per battle. The professor rewards you with `5` pokecoins per Pokémon upon winning every battle.
 
 ## Amulet Coin
 
