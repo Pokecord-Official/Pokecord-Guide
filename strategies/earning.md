@@ -1,6 +1,6 @@
 # Earning Pokecoins
 
-The economy is designed to keep inflation under strict control while still making sure that earning pokecoins is easy and accessible. This ensures that the value per coin is a lot higher than any other economy system on discord.
+The economy is designed to keep inflation under strict control while still making sure that earning pokecoins is easy and accessible. This ensures that the value per coin is a lot higher than any other economy system on Discord.
 :::details
 
 - Pokémon yield `1` pokecoin per level up.
@@ -24,7 +24,7 @@ Completing achievements and earning badges is the best way to earn a lot of poke
 
 ## AI Trainer
 
-AI trainer battles can yield up to `30` pokecoins per battle. The professor rewards you with `5` pokecoins per Pokémon upon winning every battle.
+AI trainer battle can yield up to `30` pokecoins. The professor rewards you with `5` pokecoins per Pokémon upon winning every battle.
 
 ## Amulet Coin
 

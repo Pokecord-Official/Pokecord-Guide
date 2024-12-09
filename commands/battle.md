@@ -4,11 +4,11 @@ This command is used for `Player vs Player`, `Cross Server` or `AI Trainer` Pok�
 
 ## Player vs Player
 
-To challenge another player for a Pokémon battle, the `opponent` option must be specified. If the mentioned opponent accepts the challenge before it times out, the battle starts.
+To challenge another player for a Pokémon battle, the `opponent` option must be specified. If the mentioned opponent accepts the challenge before it expires, the battle starts.
 
 ## Cross Server
 
-Cross server battles are Pokémon battles where two eligible players in different discord servers can battle each other. To start a cross server battle, the command needs to be used without mentioning the `opponent` option.
+Cross server battles are Pokémon battles where two eligible players in different discord servers can battle each other. To start a cross server battle, the command should be used without mentioning the `opponent` option.
 :::details Matchmaking
 Cross server matchmaking depends on the following factors:<br>
 
@@ -22,14 +22,14 @@ It is also possible to match players in the same server but different channels.
 
 ## AI Trainer
 
-If a cross server matchmaking fails or times out, the user is matched with an AI trainer. AI trainer battles always have a stake value of 0. The AI will always have the same number of Pokémon as the player. The levels of the opponent Pokémon cannot be higher than the max party level of the challenger.
+If a cross server matchmaking fails or times out, the user is matched with an AI trainer. AI trainer battles always have a stake value of 0. The AI will always have the same number of Pokémon and party generation as the player. The levels of the opponent Pokémon cannot be higher than the max party level of the challenger.
 :::tip
-Despite the stake value, an AI Trainer battle will always yield experience points, effort value points and happiness upon winning.
+Despite the stake value, an AI Trainer battle will always yield experience points and effort value points upon winning.
 :::
 
 ## Stakes
 
-To make battles more exciting, users can compete for a pokecoins. The winner receives the stake amount while it's deducted from the loser's profile. Unstaked PvP or Cross Server battles do not yield experence points, effort value points or happiness.
+To make battles more exciting, users can compete for a pokecoins. The winner receives the stake amount while it's deducted from the loser's profile. Unstaked PvP or Cross Server battles do not yield experence points or effort value points.
 :::info Stake Fee
 Upon a successful win, `5%` of the total stake value is deducted before the winner receives the amount.
 :::

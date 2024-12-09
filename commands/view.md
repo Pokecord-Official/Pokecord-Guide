@@ -1,6 +1,6 @@
 # Viewing Pokémon
 
-This is an all in one command that is used to quickly view and edit your Pokémon. In addition, this command allows the user to edit the party, select a Pokémon, release a Pokémon, give or take items and add or remove a Pokémon from the market.
+This is an all in one command that is used to quickly view and edit your Pokémon. In addition, this command allows the user to edit the party, select a Pokémon, release a Pokémon, give or take items and add or remove a Pokémon from the [market](./market.md).
 :::tip
 The very first select menu is used to select a Pokémon while the rest of the menus are used to perform actions on the selected Pokémon. 
 :::
@@ -22,7 +22,7 @@ The search button can also be found in [/trade](/commands/trade.html), [/gift](/
 :::
 
 ## Multi Release
-This is a lesser known feature of the view command that allows users to release multple Pokémon from a given range of `IV` values. The `Release` button changes to `Multi Release` when viewing the selected Pokémon. This button will only release Pokémon that belong to `Common` and `Regional` rarity.
+This is a lesser known feature of the view command that allows users to release multple Pokémon from a given range of IV values. The `Release` button changes to `Multi Release` when viewing the selected Pokémon. This button will only release Pokémon that belong to `Common` and `Regional` rarity.
 :::tip
 Pokémon present in the party and Pokémon holding an item are ignored.
 :::

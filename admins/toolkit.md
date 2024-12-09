@@ -14,7 +14,7 @@ Usernames and the server IDs that a user is allowed to edit or add can be found 
 
 ## Submitting PR
 
-A sample JSON template can be found in the rulesets folder. The new ruleset file must be renamed to the [Discord Server ID](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID) of the author. The structure of the file begins with `channelId` which needs to be replaced with the `Discord Channel ID` that the ruleset needs to take effect in. The file can have up to `25` comma separated channel IDs with their own ruleset.
+A sample JSON template can be found in the rulesets folder. The new ruleset file must be renamed to the [Discord Server ID](https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID) of the author. The structure of the file begins with `channelId` which needs to be replaced with the `Discord Channel ID` that the ruleset needs to take effect in. The file can have up to `25` comma separated channel IDs with their own rulesets.
 :::info
 - Structure of the JSON file must not be changed.
 - The PR must have a proper `Description` and `Title`.

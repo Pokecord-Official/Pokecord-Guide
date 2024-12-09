@@ -21,7 +21,7 @@ Users cannot buy their own Pokémon.
 
 ## Selling
 
-Minimum price for listing a Pokémon on the market is `60 Pokecoins`. The max price is calculated using the formula `Total + 15%` for `Legendary` rarity, the percentage value goes up by `5%` when moving up the rarity list.
+Minimum price for listing a Pokémon on the market is `60` pokecoins. The max price is calculated using the formula `Total + 15%` for `Legendary` rarity, the percentage value goes up by `5%` when moving up the rarity list.
 :::info Market Fee
 Upon a successful sale, `5%` of the total sale value is deducted before the seller receives the amount.
 :::
@@ -29,8 +29,8 @@ Upon a successful sale, `5%` of the total sale value is deducted before the sell
 The button on the very right in the [/view](./view.html) message changes from `Remove Party` to `Add Market`.
 :::
 :::details
-- `72 IV` or more `Common` Pokémon yield `50 Pokecoins`.
-- `72 IV` or more `Regional` Pokémon yield `60 Pokecoins`.
+- `72 IV` or more `Common` Pokémon yield `50` pokecoins.
+- `72 IV` or more `Regional` Pokémon yield `60` pokecoins.
 - Both `Common` and `Regional` Pokémon below `72 IV` yield `1x Rare Candy`.
 :::
 
@@ -43,9 +43,9 @@ Higher IV Pokémon yield better jackpot rewards.
 
 ## Mystery Shop
 
-The Mystery Shop is located at the top section of the market, offering Pokémon with hidden IV% values capped between `76%` and `95%`. Players have two options:
+The Mystery Shop is located at the top section of the market, offering Pokémon with hidden IV% values capped between `76%` and `92%`. Players have two options:
 
-1. Purchase the Pokémon directly using **pokecoins** or **gems**.
+1. Purchase the Pokémon directly using pokecoins or gems.
 2. Choose to reveal the IV% before buying. However, revealing the IV% increases the price.
 
 Below is the pricing structure for Pokémon after their IV% is revealed based on their rarity and IV% value:

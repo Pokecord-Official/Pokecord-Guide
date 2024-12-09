@@ -1,11 +1,10 @@
 # Custom Items
 
-We have tried our best to make sure that all mechanics in Pokecord++ are as accurate as possible. To keep things fun and interesting, we have introduced a few of our own items.
+To keep things fun and interesting, we have introduced a few of our own items.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311293123430846534.png" width="40" height="40" style="margin-right:5px">Relics</div>
 
-Relics are special consumable items in the [shop](/commands/shop.md) that have a percentage chance to turn an existing Pokémon into a shiny. Every relic also provides a guaranteed iV boost to the Pokémon. The three types of relics with their exact percentage values
-are provided below.
+Relics are special consumable items in the [shop](/commands/shop.md) that have a percentage chance to turn an existing Pokémon into a shiny. Every relic also provides a guaranteed IV boost to the Pokémon. Below are the three types of relics with their exact percentage values.
 
 > ### <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1276958334452502619.png" width="40" height="40" style="margin-right:5px">Relic Platinum</div>
 >
@@ -31,8 +30,8 @@ Rare element is a special key item that forces a rare spawn roll. This item only
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1310086024118145055.png" width="40" height="40" style="margin-right:5px">Rare Energy</div>
 
-Rare energy is a consumable item that re-activates the Rare Element. This item can either be purchased from the market or obtained for free by hitting a jackpot when [voting](/strategies/earning.md#voting) for the bot on Top.gg.
+Rare energy is a consumable item that re-activates the [Rare Element](./items.md#rare-element). This item can either be purchased from the [market](./commands/market.md) or obtained for free by hitting a jackpot when [voting](/strategies/earning.md#voting) for the bot on Top.gg.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1310098780787445862.png" width="40" height="40" style="margin-right:5px">Magic Flute</div>
 
-Magic flute is a consumable item in the [shop](/commands/shop.md) that can be used to reroll a Pokémon's ivs. This item cannot be used on the same Pokémon if the new value is higher than the original.
+Magic flute is a consumable item in the [shop](/commands/shop.md) that can be used to reroll the IVs of a Pokémon. This item cannot be used on the same Pokémon if the new IV value is higher than the original.
