@@ -11,7 +11,7 @@ Obtained by becoming a [premium](https://buymeacoffee.com/pokecord/membership) m
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859693105053738.png" width="40" height="40" style="margin-right:5px">Thunder</div>
 
-Obtained by getting unlucky and missing your chance to get a shiny after using [Relic Platinum](https://pokecord.org/items).
+Obtained by getting unlucky and missing your chance to get a shiny after using [Relic Platinum](../items.md#relic-platinum).
 > Rewards: 
 > - `500` Gems
 
