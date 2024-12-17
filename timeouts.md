@@ -13,9 +13,12 @@ If the battle times out or is forfeited at turn `0` and neither player has selec
 :::
 
 ## Unstaked Battles
-For unstaked battles (except [AI Trainer](./commands/battle.md#ai-trainer) battles) forfeit or timeout results in a loss of pokecoins and a decrease in the happiness value of all Pokémon in the party. Pokecoin penalty depends on the user's current pokecoin amount:
+For unstaked battles, forfeit or timeout results in a loss of pokecoins and a decrease in the happiness value of all Pokémon in the party. Pokecoin penalty depends on the user's current pokecoin amount:
 - If the user has `100` or more pokecoins, the penalty is `1%` of the total balance, capped at a maximum of `10` pokecoins.
 - If the user has less than `100` pokecoins, a significantly longer cooldown is applied instead.
+:::info
+[AI Trainer](./commands/battle.md#ai-trainer) battles do not decrease the happiness value.
+:::
 
 ## Spawn
 Forfeiting or timing out a [spawn](./commands/spawn.md) battle results in:
