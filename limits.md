@@ -7,7 +7,7 @@ Pokecord++ is often mistaken for a Pokémon collection bot. While spawning and c
 There are set limits to the amount of items and Pokémon that a user can have. This is done to ensure efficiency and speed. Users are required to make sure that they only keep and catch the Pokémon that they need while releasing the ones that they have no use for.
 :::details
 - Free users are limited to `2000` Pokémon while premium users are limited to `6000` Pokémon.
-- Items are limited to `500`. Item limits do not include purchased moves or items held by Pokémon.
+- Items are limited to `500`. Item limits do not include purchased moves, items held by Pokémon, `Zygarde Cube` or `Zygarde Cells`.
 - Users can have up to `255` pokeballs at a time.
 :::
 :::danger Notice
