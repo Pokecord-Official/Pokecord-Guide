@@ -26,11 +26,11 @@ Relics are special consumable items in the [shop](/commands/shop.md) that have a
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1308415231298371584.png" width="40" height="40" style="margin-right:5px">Rare Element</div>
 
-Rare element is a special key item that forces a rare spawn roll. This item only functions in the official server and can be obtained by [voting](/strategies/earning.md#voting) for the bot on Top.gg.
+Rare element is a special key item that forces a rare spawn roll. This item only functions in the official server and can be obtained by [voting](/strategies/voting.md) for the bot on Top.gg.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1310086024118145055.png" width="40" height="40" style="margin-right:5px">Rare Energy</div>
 
-Rare energy is a consumable item that re-activates the [Rare Element](./items.md#rare-element). This item can either be purchased from the [market](./commands/market.md) or obtained for free by hitting a jackpot when [voting](/strategies/earning.md#voting) for the bot on Top.gg.
+Rare energy is a consumable item that re-activates the [Rare Element](./items.md#rare-element). This item can either be purchased from the [market](./commands/market.md) or obtained for free by hitting a jackpot when [voting](/strategies/voting.md) for the bot on Top.gg.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1310098780787445862.png" width="40" height="40" style="margin-right:5px">Magic Flute</div>
 
