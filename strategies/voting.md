@@ -3,19 +3,19 @@ Top.gg is one of the most popular third-party Discord bot listing websites, allo
 
 ## Rewards
 We've made sure our users get rewarded for supporting the project. Below are the rewards that can be obtained through voting.
-
+:::warning Notice
+Vote reward notifications are sent via direct messages. Users with their DMs disabled wont receive any notifications.
+:::
 ### <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1308415231298371584.png" width="40" height="40" style="margin-right:5px">Rare Element</div>
 Voting is the only way to obtain the [Rare Element](../items.md#rare-element). 
 
 ### <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1319518118040567859.png" width="40" height="40" style="margin-right:5px">Zygarde Cells</div>
 Users who purchase a [Zygarde Cube](https://bulbapedia.bulbagarden.net/wiki/Zygarde_Cube) from the shop can receive [Zygarde Cells](https://bulbapedia.bulbagarden.net/wiki/Zygarde_Cell) through voting.
-
+:::tip
+This is the only way to obtain Zygarde with [Power Construct](https://bulbapedia.bulbagarden.net/wiki/Power_Construct_(Ability)).
+:::
 ### <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1278844526252785776.png" width="40" height="40" style="margin-right:5px">Pokecoins</div>
 Users can earn up to `10` pokecoins per vote.
-
-:::warning Notice
-Vote reward notifications are sent via direct messages. Users with their DMs disabled wont receive any notifications.
-:::
 
 ## Jackpot
 There is a chance to hit a jackpot after each vote. Hitting the jackpot doubles the amount of earned pokecoins and gives [Rare Energy](../items.md#rare-energy) which recharges the Rare Element.
