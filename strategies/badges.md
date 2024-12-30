@@ -23,7 +23,7 @@ This is the very first badge that every user receives for picking a starter Pok�
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859585332154469.png" width="40" height="40" style="margin-right:5px">Freedom</div>
 
-Obtained by winning a `1v6` staked PvP match.
+Obtained by winning a `1v6` PvP battle.
 > Rewards: 
 > - `100` Pokecoins
 
@@ -60,7 +60,7 @@ Obtained by selling a `Water` type Pokémon to `Gym Leader Misty` and hitting a 
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859474308927560.png" width="40" height="40" style="margin-right:5px">Beacon</div>
 
-Obtained by using the move [Sketch](https://bulbapedia.bulbagarden.net/wiki/Sketch_(move)) to copy the move [Roar Of Time](https://bulbapedia.bulbagarden.net/wiki/Roar_of_Time_(move)) in a staked PvP match.
+Obtained by using the move [Sketch](https://bulbapedia.bulbagarden.net/wiki/Sketch_(move)) to copy the move [Roar Of Time](https://bulbapedia.bulbagarden.net/wiki/Roar_of_Time_(move)) in a PvP match.
 > Rewards: 
 > - `200` Pokecoins
 :::tip
@@ -115,7 +115,7 @@ Obtained by reaching max friendship with selected Pokémon.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1290694012012855348.png" width="40" height="40" style="margin-right:5px">Rumble</div>
 
-Obtained by winning `200` staked PvP matches.
+Obtained by winning `200` PvP battles.
 > Rewards: 
 > - `500` Pokecoins
 

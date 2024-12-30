@@ -5,7 +5,7 @@ This command is used to display a basic overview about the trainer along with in
 ## Last Active Status
 
 The last active status indicates when the trainer profile was last updated.
-This value is updated after various interactions on the bot such as staked PvP battles, AI trainer battles, breeding, shop transactions, catching or walking away after winning a spawn battle or voting for the bot on Top.gg.
+This value is updated after various interactions such as battles, breeding, shop transactions, catching or walking away after winning a spawn battle or [voting](../strategies/voting.md) for the bot on Top.gg.
 
 ## Badges
 

@@ -4,11 +4,12 @@ The leveling system and [experience](https://bulbapedia.bulbagarden.net/wiki/Exp
 :::tip
 Selling Pokémon on the [market](../commands/market.html) is the best way to obtain free rare candies.
 :::
+
 ## Battles
 
-Experience and effort value points can only be obtained through staked battles, spawn battles and AI trainer battles. Each Pokémon yields a specific amount of experience and effort value points that can be viewed using the [/info](/commands/info.html) command.
+Defeating each Pokémon in a battle yields a specific amount of experience and effort value points, this can be viewed using the [/info](/commands/info.html) command.
 :::tip
-[Blissey](https://bulbapedia.bulbagarden.net/wiki/Blissey_(Pok%C3%A9mon)) yields the highest amount of experience points.
+The experience yield for some pokemon has been edited for balancing purposes. This is indicated by the `[Balanced]` tag in the `/info` command.
 :::
 
 ## Items
