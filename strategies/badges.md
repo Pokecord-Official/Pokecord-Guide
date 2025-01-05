@@ -143,6 +143,15 @@ Obtained by reaching a `500` win streak.
 > Rewards
 > - `3333` Pokecoins
 
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1325387717240029266.png" width="40" height="40" style="margin-right:5px">Champion</div>
+
+Obtained by reaching a `250` quest milestone.
+> Rewards
+> - `5000` Pokecoins
+:::info
+Quest milestone is the number of times all daily quests have been completed and claimed
+:::
+
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311266310956515398.png" width="40" height="40" style="margin-right:5px">Master</div>
 
 Obtained by reaching a `800` win streak. Replaces the [Expert](#expert) badge.

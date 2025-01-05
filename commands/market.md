@@ -7,7 +7,7 @@ Market notifications are sent via direct messages. Users with their DMs disabled
 
 ## Eligibility
 
-Pokémon with `Common` and `Regional` rarity can only be sold to the bot and cannot be listed on the market. These Pokémon must be above `50 IV`. Bred Pokémon in this rarity are not eligible.
+Pokémon with `Common` and `Regional` rarity can only be sold to the bot and cannot be listed on the market. These Pokémon must be at least `72 IV`. Bred Pokémon in this rarity are not eligible.
 :::info
 Shiny Pokémon or Pokémon holding an item cannot be listed on the market.
 :::
@@ -31,12 +31,11 @@ The button on the very right in the [/view](./view.html) message changes from `R
 :::details
 - `72 IV` or more `Common` Pokémon yield `50` pokecoins.
 - `72 IV` or more `Regional` Pokémon yield `60` pokecoins.
-- Both `Common` and `Regional` Pokémon below `72 IV` yield `1x Rare Candy`.
 :::
 
 ## Jackpot
 
-There is a chance to hit a jackpot when selling a `72 IV` or more Pokémon to the bot. The jackpot doubles the received pokecoin amount along with a few additional rewards.
+There is a chance to hit a jackpot when selling a Pokémon to the bot. The jackpot doubles the received pokecoin amount along with a few additional rewards.
 :::tip
 Higher IV Pokémon yield better jackpot rewards.
 :::

@@ -32,6 +32,7 @@ export default defineConfig({
           { text: '/teach', link: '/commands/teach.md' },
           { text: '/breed', link: '/commands/breed.md' },
           { text: '/trade', link: '/commands/trade.md' },
+          { text: '/daily', link: '/commands/daily.md' },
           { text: '/view', link: '/commands/view.md' },
           { text: '/info', link: '/commands/info.md' },
           { text: '/gift', link: '/commands/gift.md' },

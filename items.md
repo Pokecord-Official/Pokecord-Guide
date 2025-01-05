@@ -28,9 +28,9 @@ Relics are special consumable items in the [shop](/commands/shop.md) that have a
 
 Rare element is a special key item that forces a rare spawn roll. This item only functions in the official server and can be obtained by [voting](/strategies/voting.md) for the bot on Top.gg.
 
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1310086024118145055.png" width="40" height="40" style="margin-right:5px">Rare Energy</div>
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1325134551110127697.png" width="40" height="40" style="margin-right:5px">Shiny Rare Element</div>
 
-Rare energy is a consumable item that re-activates the [Rare Element](./items.md#rare-element). This item can either be purchased from the [market](./commands/market.md) or obtained for free by hitting a jackpot when [voting](/strategies/voting.md) for the bot on Top.gg.
+Shiny Rare element is a special key item that forces an unrestricted shiny spawn roll. Unlike the [Rare Element](./items.md#rare-element), This item functions in all servers and can be purchased from the [market](./commands/market.md).
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1310098780787445862.png" width="40" height="40" style="margin-right:5px">Magic Flute</div>
 
