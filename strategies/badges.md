@@ -137,12 +137,6 @@ Obtained by catching a `95 IV` or higher Pokémon from a wild spawn.
 > Rewards: 
 > - `2000` Pokecoins
 
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311266281416032327.png" width="40" height="40" style="margin-right:5px">Expert</div>
-
-Obtained by reaching a `500` win streak.
-> Rewards
-> - `3333` Pokecoins
-
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1325387717240029266.png" width="40" height="40" style="margin-right:5px">Champion</div>
 
 Obtained by reaching a `250` quest milestone.
@@ -151,6 +145,13 @@ Obtained by reaching a `250` quest milestone.
 :::info
 Quest milestone is the number of times all daily quests have been completed and claimed
 :::
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311266281416032327.png" width="40" height="40" style="margin-right:5px">Expert</div>
+
+Obtained by reaching a `500` win streak.
+> Rewards
+> - `3333` Pokecoins
+
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311266310956515398.png" width="40" height="40" style="margin-right:5px">Master</div>
 
