@@ -18,4 +18,4 @@ This is the only way to obtain Zygarde with [Power Construct](https://bulbapedia
 Users can earn up to `10` pokecoins per vote.
 
 ## Jackpot
-There is a chance to hit a jackpot after each vote. Hitting the jackpot doubles the amount of earned pokecoins and gives [Rare Energy](../items.md#rare-energy) which recharges the Rare Element.
+There is a chance to hit a jackpot after each vote. Hitting the jackpot doubles the amount of earned pokecoins and recharges the Rare Element.
