@@ -1,9 +1,6 @@
 # Leveling Up
 
 The leveling system and [experience](https://bulbapedia.bulbagarden.net/wiki/Experience) gain is accurate to the actual Pokémon games. The only way to level up your Pokémon is through battles or using an item called [Rare Candy](https://bulbapedia.bulbagarden.net/wiki/Rare_Candy). Leveling up also increases the happiness value of the Pokémon.
-:::tip
-Selling Pokémon on the [market](../commands/market.html) is the best way to obtain free rare candies.
-:::
 
 ## Battles
 
