@@ -13,4 +13,4 @@ The icons displayed when viewing the trainer profile are called achievement badg
 
 ## Key Items
 
-[Key items](https://bulbapedia.bulbagarden.net/wiki/Key_Item) are items that have a global effect on all Pokémon. These items appear in a select menu at the bottom of the profile message.
+[Key items](https://bulbapedia.bulbagarden.net/wiki/Key_Item) are items that have a global effect on all Pokémon. These items cannot be used directly and appear in a select menu at the bottom of the profile message.
