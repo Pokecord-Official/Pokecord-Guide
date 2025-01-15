@@ -90,7 +90,7 @@ Reward is doubled if you get lucky and hit the jackpot on your last vote.
 Obtained by obtaining `Phione` from breeding while being original trainer of the parent.
 > Rewards: 
 > - `400` Pokecoins
-:::details
+:::details Original Trainer
 - Original trainer Pokémon are Pokémon that have been caught by the user from a wild spawn. 
 - Non-original Pokémon display the User ID of the actual trainer in the footer of the [/view](/commands/view.html) message.
 :::
