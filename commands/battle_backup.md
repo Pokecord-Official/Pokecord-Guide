@@ -12,6 +12,11 @@ A win is only considered for a complete battle, forfeitting a battle does not co
 ## Cross Server
 
 Cross server battles are Pokémon battles where two eligible players in different discord servers can battle each other. To start a cross server battle, the command should be used without mentioning the `opponent` option.
+:::details Matchmaking
+Cross server matchmaking depends on the following factors:<br>
+1. **Party Generation**: Party generation is equal to 9 if there is a generation 9 Pokémon present in the party, otherwise 8. The algorithm will only match players with same party generations.<br>
+2. **Max Party Level**: Max party level is equal to the highest level Pokémon in the party. The algorithm will match players with max party level of ± 5.
+:::
 ::: tip
 It is also possible to match players in the same server but different channels.
 :::
