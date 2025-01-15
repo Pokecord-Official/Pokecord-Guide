@@ -85,21 +85,15 @@ Obtained by [voting](/strategies/voting.md) for Pokecord++ on [Top.gg](https://t
 Reward is doubled if you get lucky and hit the jackpot on your last vote.
 :::
 
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859545129750548.png" width="40" height="40" style="margin-right:5px">Dynamo</div>
-
-Obtained by releasing an original trainer shiny Pokémon into the wild using [/gift](/commands/gift.html).
-> Rewards: 
-> - `300` Pokecoins
-:::details
-- Original trainer Pokémon are Pokémon that have been caught by the user from a wild spawn. 
-- Non-original Pokémon display the User ID of the actual trainer in the footer of the [/view](/commands/view.html) message.
-:::
-
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859602055106571.png" width="40" height="40" style="margin-right:5px">Icicle</div>
 
 Obtained by obtaining `Phione` from breeding while being original trainer of the parent.
 > Rewards: 
 > - `400` Pokecoins
+:::details
+- Original trainer Pokémon are Pokémon that have been caught by the user from a wild spawn. 
+- Non-original Pokémon display the User ID of the actual trainer in the footer of the [/view](/commands/view.html) message.
+:::
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1290694195090292817.png" width="40" height="40" style="margin-right:5px">Bloodmoon</div>
 
@@ -131,6 +125,16 @@ Obtained by catching a shiny Pokémon from a wild spawn.
 > Rewards: 
 > - `1000` Pokecoins
 
+:::tip
+The [Shiny Rare Element](../items.md#shiny-rare-element) does not trigger this badge.
+:::
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859545129750548.png" width="40" height="40" style="margin-right:5px">Dynamo</div>
+
+Obtained by walking away from a shiny spawn.
+> Rewards: 
+> - `2000` Pokecoins
+
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859618865610864.png" width="40" height="40" style="margin-right:5px">Mind</div>
 
 Obtained by catching a `95 IV` or higher Pokémon from a wild spawn.
@@ -143,7 +147,7 @@ Obtained by reaching a `250` quest milestone.
 > Rewards
 > - `5000` Pokecoins
 :::info
-Quest milestone is the number of times all daily quests have been completed and claimed
+Quest milestone is the number of times all daily quests have been completed and claimed.
 :::
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311266281416032327.png" width="40" height="40" style="margin-right:5px">Expert</div>
