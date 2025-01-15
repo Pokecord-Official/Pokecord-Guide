@@ -115,7 +115,7 @@ Obtained by winning `200` PvP battles.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1289536559292485673.png" width="40" height="40" style="margin-right:5px">Harmony</div>
 
-Obtained by obtaining a `90 IV` or higher `Chingling` from breeding during windy weather.
+Obtained by obtaining a `90 IV` or higher `Chingling` from breeding during windy weather while being original trainer of the parent.
 > Rewards: 
 > - `1000` Pokecoins
 
