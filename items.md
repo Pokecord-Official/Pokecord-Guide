@@ -35,3 +35,6 @@ Shiny Rare element is a special key item that forces an unrestricted shiny spawn
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1310098780787445862.png" width="40" height="40" style="margin-right:5px">Magic Flute</div>
 
 Magic flute is a consumable item in the [shop](/commands/shop.md) that can be used to reroll the IVs of a Pokémon. This item cannot be used on the same Pokémon if the new IV value is higher than the original.
+:::tip
+If used on a non-shiny pokemon, this item also rerolls the shiny chance.
+:::
