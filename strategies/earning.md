@@ -13,7 +13,7 @@ Users can earn pokecoins along with additional rewards by [voting](./voting.md) 
 
 ## Market
 
-The [market](../commands/market.html) allows users to sell eligible Pokémon to the bot or to other players. This is not only one of the easier methods to earn pokecoins but also an easy way to level up your existing Pokémon as some Pokémon can be exchanged for [Rare Candies](https://bulbapedia.bulbagarden.net/wiki/Rare_Candy).
+The market allows users to sell eligible Pokémon to the bot or to other players for pokecoins. More information about market can be found in the [market](../commands/market.html) section.
 
 ## Badges
 
@@ -21,7 +21,7 @@ Completing achievements and earning badges is the best way to earn a lot of poke
 
 ## AI Trainer
 
-AI trainer battle can yield up to `30` pokecoins. The professor rewards you with `5` pokecoins per Pokémon upon winning every battle.
+AI trainer battle can yield up to `30` pokecoins. The professor rewards you with `5` pokecoins per Pokémon upon winning. The difficulty level of AI battles is determined by the max leveled Pokémon in the party.
 
 ## Amulet Coin
 
