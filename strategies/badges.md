@@ -87,7 +87,7 @@ Badge Reward is doubled if you get lucky and hit the jackpot on your last vote.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1330210507356901457.png" width="40" height="40" style="margin-right:5px">Mask</div>
 
-Obtained by infecting two Pokémon with [pokerus](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9rus) at the same time with an original trainer infected Pokémon.
+Obtained by infecting two Pokémon with [Pokérus](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9rus) at the same time with an original trainer infected Pokémon.
 > Rewards: 
 > - `200` Pokecoins
 :::tip
