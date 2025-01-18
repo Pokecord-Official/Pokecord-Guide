@@ -91,7 +91,11 @@ Obtained by infecting two Pokémon with [pokerus](https://bulbapedia.bulbagarden
 > Rewards: 
 > - `200` Pokecoins
 :::tip
-Adjacent pokemon must be used in battle for the pokerus infection to spread.
+Adjacent Pokémon must be used in battle for them to catch the virus.
+:::
+:::details Original Trainer
+- Original trainer Pokémon are Pokémon that have been caught by the user from a wild spawn. 
+- Non-original Pokémon display the User ID of the actual trainer in the footer of the [/view](/commands/view.html) message.
 :::
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859602055106571.png" width="40" height="40" style="margin-right:5px">Icicle</div>
@@ -99,10 +103,6 @@ Adjacent pokemon must be used in battle for the pokerus infection to spread.
 Obtained by obtaining `Phione` from breeding while being original trainer of the parent.
 > Rewards: 
 > - `400` Pokecoins
-:::details Original Trainer
-- Original trainer Pokémon are Pokémon that have been caught by the user from a wild spawn. 
-- Non-original Pokémon display the User ID of the actual trainer in the footer of the [/view](/commands/view.html) message.
-:::
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1290694195090292817.png" width="40" height="40" style="margin-right:5px">Bloodmoon</div>
 
