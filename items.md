@@ -9,19 +9,19 @@ Relics are special consumable items in the [shop](/commands/shop.md) that have a
 > ### <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1276958334452502619.png" width="40" height="40" style="margin-right:5px">Relic Platinum</div>
 >
 > - Shiny Chance: 95%
-> - iV Boost Points: 20
+> - IV Boost Points: 20
 > - Boosted Stats: 3
 >
 > ### <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1276958327351541843.png" width="40" height="40" style="margin-right:5px">Relic Gold</div>
 >
 > - Shiny Chance: 50%
-> - iV Boost Points: 16
+> - IV Boost Points: 16
 > - Boosted Stats: 2
 >
 > ### <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1276958341440209040.png" width="40" height="40" style="margin-right:5px">Relic Silver</div>
 >
 > - Shiny Chance: 25%
-> - iV Boost Points: 8
+> - IV Boost Points: 8
 > - Boosted Stats: 1
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1308415231298371584.png" width="40" height="40" style="margin-right:5px">Rare Element</div>
