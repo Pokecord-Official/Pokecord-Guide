@@ -67,6 +67,7 @@ export default defineConfig({
       }, {
         items: [
           { text: 'Custom Items', link: '/items.md' },
+          { text: 'Bug Bounty', link: '/bounty.md' },
           { text: 'Timeouts', link: '/timeouts.md' },
           { text: 'Limits', link: '/limits.md' },
           { text: 'Glitch', link: '/glitch.md' }
@@ -76,7 +77,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'discord', link: 'https://pokecord.org/server' },
-      { icon: 'github', link: 'https://github.com/Jerick120/Pokecord-GymToolkit' }
+      { icon: 'github', link: 'https://github.com/Pokecord-Official' }
     ]
   }
 })

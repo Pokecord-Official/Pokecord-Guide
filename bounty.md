@@ -1,0 +1,2 @@
+# Bug Bounty
+Bugs are inevitable in a project of this scale and we take them seriously. We encourage players to report any issues they find to help improve the experience for everyone. For serious exploits that pose a significant impact, we offer rewards such as Pokecoins, Premium, or even Discord Nitro. 
