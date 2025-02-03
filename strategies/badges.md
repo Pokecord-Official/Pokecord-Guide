@@ -9,6 +9,10 @@ Badges can be viewed by using the [/profile](/commands/profile.html) command.
 
 Obtained by becoming a [premium](https://buymeacoffee.com/pokecord/membership) member. This badge disappears if the membership ends.
 
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1330210507356901457.png" width="40" height="40" style="margin-right:5px">Bounty</div>
+
+Obtained by participating in the [bug bounty](../bounty.md) program.
+
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859693105053738.png" width="40" height="40" style="margin-right:5px">Thunder</div>
 
 Obtained by getting unlucky and missing your chance to get a shiny after using [Relic Platinum](../items.md#relic-platinum).
@@ -91,7 +95,7 @@ Obtained by [voting](/strategies/voting.md) for Pokecord++ on [Top.gg](https://t
 Badge Reward is doubled if you get lucky and hit the jackpot on your last vote.
 :::
 
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1330210507356901457.png" width="40" height="40" style="margin-right:5px">Mask</div>
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1336034199307554836.png" width="40" height="40" style="margin-right:5px">Rising</div>
 
 Obtained by infecting two Pokémon with [Pokérus](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9rus) at the same time with an original trainer infected Pokémon.
 > Rewards: 
