@@ -45,11 +45,11 @@ Higher IV Pokémon yield better jackpot rewards.
 The Mystery Shop is located at the top section of the market, offering Pokémon with hidden IV% values capped between `76%` and `92%`. Players have two options:
 
 1. Purchase the Pokémon directly using pokecoins or gems.
-2. Choose to reveal the IV% before buying. However, revealing the IV% increases the price.
+2. Choose to reveal the stats before buying. However, revealing the stats increases the price.
 
-Below is the pricing structure for Pokémon after their IV% is revealed based on their rarity and IV% value:
+Below is the pricing structure for Pokémon after their stats are revealed based on their rarity and IV% value:
 
-### Price List (Revealed IV%)
+### Price List (Revealed Stats)
 
 #### Paradox
 - IV 90% or above: 💰 `16,000` Coins | 💎 `250` Gems  
