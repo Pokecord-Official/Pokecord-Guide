@@ -8,3 +8,7 @@ Hangmon requires `1` pokeball which is consumed after receiving a Pokémon.
 :::tip
 Guessing the Pokémon in fewer attempts gives better rewards.
 :::
+
+## Jackpot
+
+Guessing the correct Pokémon on the first attempt guarantees a jackpot. The jackpot gives a random [reward ticket](./rewards.md).

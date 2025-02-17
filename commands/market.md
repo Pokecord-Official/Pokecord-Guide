@@ -35,7 +35,7 @@ The button on the very right in the [/view](./view.html) message changes from `R
 
 ## Jackpot
 
-There is a chance to hit a jackpot when selling a Pokémon to the bot. The jackpot doubles the received pokecoin amount along with a few additional rewards.
+There is a chance to hit a jackpot when selling a Pokémon to the bot. The jackpot gives a random [reward ticket](./rewards.md).
 :::tip
 Higher IV Pokémon yield better jackpot rewards.
 :::
@@ -52,17 +52,17 @@ Below is the pricing structure for Pokémon after their stats are revealed based
 ### Price List (Revealed Stats)
 
 #### Paradox
-- IV 90% or above: 💰 `16,000` Coins | 💎 `250` Gems  
-- IV 89% or below: 💰 `14,000` Coins | 💎 `225` Gems  
+- IV 90% or above: 💰 `16,000` Pokecoins | 💎 `250` Gems  
+- IV 89% or below: 💰 `14,000` Pokecoins | 💎 `225` Gems  
 
 #### Mythical
-- IV 90% or above: 💰 `14,000` Coins | 💎 `225` Gems  
-- IV 89% or below: 💰 `12,000` Coins | 💎 `200` Gems  
+- IV 90% or above: 💰 `14,000` Pokecoins | 💎 `225` Gems  
+- IV 89% or below: 💰 `12,000` Pokecoins | 💎 `200` Gems  
 
 #### Legendary
-- IV 90% or above: 💰 `12,000` Coins | 💎 `200` Gems  
-- IV 89% or below: 💰 `10,000` Coins | 💎 `175` Gems  
+- IV 90% or above: 💰 `12,000` Pokecoins | 💎 `200` Gems  
+- IV 89% or below: 💰 `10,000` Pokecoins | 💎 `175` Gems  
 
 #### Ultra Beast
-- IV 90% or above: 💰 `10,000` Coins | 💎 `175` Gems  
-- IV 89% or below: 💰 `8,000` Coins | 💎 `150` Gems  
+- IV 90% or above: 💰 `10,000` Pokecoins | 💎 `175` Gems  
+- IV 89% or below: 💰 `8,000` Pokecoins | 💎 `150` Gems  
