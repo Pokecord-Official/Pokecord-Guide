@@ -4,7 +4,7 @@ This command is used to redeem items and pokecoins in exchange for reward ticket
 
 ## Ticket Rates
 
-Rewards are categorized into three rarities, `Common`, `Legendary` and `Mythical`. Every ticket can pick items from any rarity but the roll rate differs between each ticket. The `Cosmic Ticket` has the best chance for more rare items followed by the `Master Ticket` and the `Basic Ticket`. 
+Rewards are categorized into three rarities, `Common`, `Legendary` and `Mythical`. Every ticket can pick items from any rarity but the roll rate differs between each ticket. The `Cosmic Ticket` has the best chance for rarer items followed by the `Master Ticket` and the `Basic Ticket`. 
 
 :::tip
 Both `Cosmic Ticket` and `Master Ticket` guarantee at least one rare item.
