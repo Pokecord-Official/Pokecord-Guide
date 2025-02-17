@@ -12,4 +12,4 @@ Both `Cosmic Ticket` and `Master Ticket` guarantee at least one rare item.
 
 ## Vote Ticket
 
-The `Vote Ticket` has a fixed reward with a chance for a jackpot which activates the [Rare Element](../items.md#rare-element). More information about vote rewards can be found in the [voting](../strategies//voting.md) section.
+The `Vote Ticket` has a fixed reward with a chance for a jackpot which activates the [Rare Element](../items.md#rare-element). More information about vote rewards can be found in the [voting](../strategies/voting.md) section.
