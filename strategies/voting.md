@@ -15,4 +15,4 @@ Users who purchase a [Zygarde Cube](https://bulbapedia.bulbagarden.net/wiki/Zyga
 This is the only way to obtain Zygarde with [Power Construct](https://bulbapedia.bulbagarden.net/wiki/Power_Construct_(Ability)).
 :::
 ### <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1341037903152812102.png" width="40" height="40" style="margin-right:5px">Pokecoins</div>
-Users can earn up to `5` pokecoins per vote ticket.
+Users can earn up to `10` pokecoins per vote ticket.
