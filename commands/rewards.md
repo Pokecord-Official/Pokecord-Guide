@@ -1,6 +1,6 @@
 # Reward Tickets
 
-This command is used to redeem items and pokecoins in exchange for reward tickets. Tickets can be obtained through [voting](../strategies//voting.md), [quests]('./daily.md) and other jackpots throughout the bot.
+This command is used to redeem items and pokecoins in exchange for reward tickets. Tickets can be obtained through [voting](../strategies//voting.md), [quests](./daily.md) and other jackpots throughout the bot.
 
 ## Ticket Rates
 
