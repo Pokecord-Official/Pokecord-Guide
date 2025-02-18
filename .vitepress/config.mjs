@@ -59,9 +59,9 @@ export default defineConfig({
           { text: 'Active Servers', link: '/admins/active.md' },
           {
             text: 'Custom Rulesets',
-            link: '/admins/toolkit.md',
+            link: '/admins/rulesets.md',
             items: [
-              { text: 'Ruleset Structure', link: '/admins/toolkitStructure.md' }
+              { text: 'Ruleset Structure', link: '/admins/structure.md' }
             ]
           },
         ]
