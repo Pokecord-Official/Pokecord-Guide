@@ -1,6 +1,6 @@
 # Pokémon Party
 
-There are two party slots that can be viewed using the [view](../commands/view.md) command. Each party slot has it's own selected Pokémon. The selected Pokémon is always displayed at the top of the party list.
+There are two party slots that can be viewed using the [view](../commands/view.md) command. Each party slot has it's own selected Pokémon. The selected Pokémon is always displayed at the top of the party list and is sent out first in a battle.
 
 ## Spawn Party
 
