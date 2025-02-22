@@ -6,7 +6,7 @@ The leveling system and [experience](https://bulbapedia.bulbagarden.net/wiki/Exp
 
 Defeating each Pokémon in a battle yields a specific amount of experience and effort value points, this can be viewed using the [/info](/commands/info.html) command.
 :::tip
-The experience yield for some pokemon has been edited for balancing purposes. This is indicated by the `[Balanced]` tag in the `/info` command.
+The experience yield for some Pokémon has been edited for balancing purposes. This is indicated by the `[Balanced]` tag in the `/info` command.
 :::
 
 ## Items

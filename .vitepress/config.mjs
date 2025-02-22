@@ -47,6 +47,7 @@ export default defineConfig({
         collapsed: true,
         items: [
           { text: 'Pokecoins', link: '/strategies/earning.md' },
+          { text: 'Party', link: '/strategies/party.md' },
           { text: 'Voting', link: '/strategies/voting.md' },
           { text: 'Badges', link: '/strategies/badges.md' },
           { text: 'Leveling Up', link: '/strategies/levelup.md' },
