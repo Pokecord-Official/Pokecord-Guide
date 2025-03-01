@@ -54,15 +54,14 @@ export default defineConfig({
           { text: 'EV Training', link: '/strategies/ev.md' }
         ]
       }, {
-        text: 'Admins',
+        text: 'Custom Rulesets',
         collapsed: true,
         items: [
-          { text: 'Active Servers', link: '/admins/active.md' },
           {
-            text: 'Custom Rulesets',
-            link: '/admins/rulesets.md',
+            text: 'Getting Started',
+            link: '/rulesets/rulesets.md',
             items: [
-              { text: 'Ruleset Structure', link: '/admins/structure.md' }
+              { text: 'Ruleset Structure', link: '/rulesets/structure.md' }
             ]
           },
         ]
