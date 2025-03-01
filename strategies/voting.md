@@ -16,3 +16,6 @@ This is the only way to obtain Zygarde with [Power Construct](https://bulbapedia
 :::
 ### <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1341037903152812102.png" width="40" height="40" style="margin-right:5px">Pokecoins</div>
 Users can earn up to `10` pokecoins per vote ticket.
+
+## Streaks
+Maintaining a voting streak unlocks better rewards with tickets. The highest-tier rewards include powerful items like the [Shiny Rare Element](../items.md#shiny-rare-element) and [Relics](../items.md#relics), making streaks one of the key methods of earning the best rewards in the bot.
