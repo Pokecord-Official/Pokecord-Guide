@@ -4,7 +4,7 @@ Top.gg is one of the most popular third-party Discord bot listing websites, allo
 ## Rewards
 We've made sure our users get rewarded for supporting the project. Voting for the bot gives a [Vote Ticket](../commands/rewards.md#vote-ticket) that can be redeemed to obtain certain items and pokecoins. Below are the rewards that can be obtained through voting.
 :::warning Notice
-Vote reward notifications are sent via direct messages. Users with their DMs disabled wont receive any notifications.
+Vote reward notifications are sent via direct messages. Users with their DMs disabled won't receive any notifications.
 :::
 ### <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1308415231298371584.png" width="40" height="40" style="margin-right:5px">Rare Element</div>
 Vote Tickets are the only way to obtain the [Rare Element](../items.md#rare-element). 
