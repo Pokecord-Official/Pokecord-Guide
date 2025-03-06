@@ -68,6 +68,12 @@ Obtained by selling a `Water` type Pokémon to `Gym Leader Misty` and hitting a 
 > Rewards: 
 > - `200` Pokecoins
 
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1347283614794256404.png" width="40" height="40" style="margin-right:5px">Rain</div>
+
+Obtained by selling a male `Wobbuffet` to `Team Rocket Jessie` and hitting a jackpot.
+> Rewards: 
+> - `200` Pokecoins
+
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859474308927560.png" width="40" height="40" style="margin-right:5px">Beacon</div>
 
 Obtained by using the move [Sketch](https://bulbapedia.bulbagarden.net/wiki/Sketch_(move)) to copy the move [Roar Of Time](https://bulbapedia.bulbagarden.net/wiki/Roar_of_Time_(move)) in a PvP match.
