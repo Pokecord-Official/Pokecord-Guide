@@ -53,20 +53,15 @@ export default defineConfig({
           { text: 'Leveling Up', link: '/strategies/levelup.md' },
           { text: 'EV Training', link: '/strategies/ev.md' }
         ]
-      }, {
-        text: 'Custom Rulesets',
-        collapsed: true,
+      },{
         items: [
           {
-            text: 'Getting Started',
+            text: 'Custom Rulesets',
             link: '/rulesets/rulesets.md',
             items: [
               { text: 'Ruleset Structure', link: '/rulesets/structure.md' }
             ]
           },
-        ]
-      }, {
-        items: [
           { text: 'Custom Items', link: '/items.md' },
           { text: 'Bug Bounty', link: '/bounty.md' },
           { text: 'Timeouts', link: '/timeouts.md' },
