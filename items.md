@@ -30,7 +30,7 @@ Rare element is a special key item that forces a rare spawn roll. This item only
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1325134551110127697.png" width="40" height="40" style="margin-right:5px">Shiny Rare Element</div>
 
-Shiny Rare element is a special key item that forces an unrestricted shiny spawn roll. Unlike the [Rare Element](./items.md#rare-element), This item functions in all servers and can be purchased from the [market](./commands/market.md).
+Shiny Rare element is a special key item that forces an unrestricted shiny spawn roll. Unlike the [Rare Element](./items.md#rare-element), This item functions in all servers and can be obtained from the [Royal Ticket](./commands/rewards.md#royal-rewards).
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1310098780787445862.png" width="40" height="40" style="margin-right:5px">Magic Flute</div>
 
