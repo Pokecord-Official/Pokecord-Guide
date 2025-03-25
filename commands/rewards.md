@@ -21,10 +21,10 @@ The Morph Ticket allows you to combine two eligible Pokémon of the same rarity 
 ### Eligibility
 
 The following Pokémon cannot be morphed:
-- Pokémon in your party
-- Bred or locked Pokémon
-- Pokémon holding an item
+- Bred, locked or morphed Pokémon
 - Pokémon belonging to the `Special` rarity
+- Pokémon holding an item
+- Pokémon in your party
 
 ### Outcome
 
@@ -32,6 +32,9 @@ The following Pokémon cannot be morphed:
 - It will always share at least one type with one of the Pokémon used in the morph.
 - If either of the Pokémon used is shiny, the new Pokémon will also be shiny.
 
+:::info
+A morphed Pokémon is indicated with a [symbol](./view.md#symbols).
+:::
 ## Royal Rewards
 
 Royal Rewards are the most powerful and exclusive rewards in the bot. They are unlocked by maintaining a [voting streak](../strategies/voting.md#streaks) and are added to the ticket reward pool as you progress. The `Royal Ticket` offers the highest chance of obtaining these coveted rewards.

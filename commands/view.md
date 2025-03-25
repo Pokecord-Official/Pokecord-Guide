@@ -7,10 +7,11 @@ The very first select menu is used to select a Pokémon while the rest of the me
 
 ## Symbols
 There are a few symbols displayed next to some stat values that indicate various conditions of a Pokémon.
-- `✦` : Stat has reached max [EV](../strategies/ev.md).
-- `✧` : Reached Max [EV](../strategies/ev.md) threshold.
-- `⌬` : Indicates bred Pokémon.
-- `▲` : Indicates IV reroll by [Magic Flute](../items.md#magic-flute).
+- `✦` : Stat has reached max [EV](../strategies/ev.md)
+- `✧` : Reached Max [EV](../strategies/ev.md) threshold
+- `⌬` : Indicates bred Pokémon
+- `⌭` : Indicates morphed Pokémon
+- `▲` : Indicates IV reroll by [Magic Flute](../items.md#magic-flute)
 
 ## Search
 The 🔍 button can be used to search for Pokémon. Search can contain keywords for rarities like `legendary`, `mythical`, `ultrabeast`, `paradox` and `special` or simply `rare` in addition to Pokémon names and dex numbers. The keyword `all` can be used to view all Pokémon after a previous search.
