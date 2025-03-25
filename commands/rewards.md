@@ -14,6 +14,24 @@ Both `Cosmic Ticket` and `Master Ticket` guarantee at least one rare item.
 
 The `Vote Ticket` has a fixed reward with a chance for a jackpot which activates the [Rare Element](../items.md#rare-element). More information about vote rewards can be found in the [voting](../strategies/voting.md) section.
 
+## Morph Ticket
+
+The Morph Ticket allows you to combine two eligible Pokémon of the same rarity to create a brand-new Pokémon of the same rarity.
+
+### Eligibility
+
+The following Pokémon cannot be morphed:
+- Pokémon in your party
+- Bred or locked Pokémon
+- Pokémon holding an item
+- Pokémon belonging to the `Special` rarity
+
+### Outcome
+
+- The new Pokémon will have an `IV%` equal to the highest IV Pokémon used in the morph, adjusted for its stats.
+- It will always share at least one type with one of the Pokémon used in the morph.
+- If either of the Pokémon used is shiny, the new Pokémon will also be shiny.
+
 ## Royal Rewards
 
 Royal Rewards are the most powerful and exclusive rewards in the bot. They are unlocked by maintaining a [voting streak](../strategies/voting.md#streaks) and are added to the ticket reward pool as you progress. The `Royal Ticket` offers the highest chance of obtaining these coveted rewards.
