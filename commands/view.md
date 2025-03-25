@@ -14,7 +14,7 @@ There are a few symbols displayed next to some stat values that indicate various
 - `▲` : Indicates IV reroll by [Magic Flute](../items.md#magic-flute)
 
 ## Search
-The 🔍 button can be used to search for Pokémon. Search can contain keywords for rarities like `legendary`, `mythical`, `ultrabeast`, `paradox` and `special` or simply `rare` in addition to Pokémon names and dex numbers. The keyword `all` can be used to view all Pokémon after a previous search.
+The 🔍 button can be used to search for Pokémon. Search can contain keywords for rarities like `legendary`, `mythical`, `ultrabeast`, `paradox` and `special` or simply `rare` in addition to Pokémon names, types and dex numbers. The keyword `all` can be used to view all Pokémon after a previous search.
 :::info
 Searching for `common` and `regional` rarity is not supported.
 :::
