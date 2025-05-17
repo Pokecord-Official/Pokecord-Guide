@@ -3,8 +3,8 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   lastUpdated: true,
-  title: "Guide - Pokecord++",
-  description: "Guide For Pokecord++",
+  title: "Pokecord++",
+  description: "The Official Guide For Pokecord++",
   head: [
     ['link', { rel: 'icon', href: 'https://pokecord.org/favicon-dark', media: '(prefers-color-scheme: dark)' }],
     ['link', { rel: 'icon', href: 'https://pokecord.org/favicon-light', media: '(prefers-color-scheme: light)' }],
@@ -27,6 +27,7 @@ export default defineConfig({
         items: [
           { text: '/profile', link: '/commands/profile.md' },
           { text: '/battle', link: '/commands/battle.md' },
+          { text: '/leaderboard', link: '/commands/leaderboard.md' },
           { text: '/hangmon', link: '/commands/hangmon.md' },
           { text: '/rewards', link: '/commands/rewards.md' },
           { text: '/market', link: '/commands/market.md' },
@@ -36,6 +37,7 @@ export default defineConfig({
           { text: '/trade', link: '/commands/trade.md' },
           { text: '/daily', link: '/commands/daily.md' },
           { text: '/view', link: '/commands/view.md' },
+          { text: '/rank', link: '/commands/rank.md' },
           { text: '/info', link: '/commands/info.md' },
           { text: '/gift', link: '/commands/gift.md' },
           { text: '/shop', link: '/commands/shop.md' },
@@ -66,6 +68,7 @@ export default defineConfig({
           { text: 'Custom Items', link: '/items.md' },
           { text: 'Bug Bounty', link: '/bounty.md' },
           { text: 'Timeouts', link: '/timeouts.md' },
+          { text: 'Seasons', link: '/seasons.md' },
           { text: 'Limits', link: '/limits.md' },
           { text: 'Glitch', link: '/glitch.md' }
         ]

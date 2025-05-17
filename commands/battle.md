@@ -11,10 +11,7 @@ A win is only considered for a complete battle, forfeitting a battle does not co
 
 ## Cross Server
 
-Cross server battles are Pokémon battles where two eligible players in different discord servers can battle each other. To start a cross server battle, the command should be used without mentioning the `opponent` option.
-::: tip
-It is also possible to match players in the same server but different channels.
-:::
+Cross server battles are ranked Pokémon battles where two eligible players in different discord servers can battle each other. To start a cross server battle, the command should be used without mentioning the `opponent` option.
 
 ## AI Trainer
 
