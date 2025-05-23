@@ -22,5 +22,5 @@ You can invite Pokecord++ to your Discord server using the `+` button on the hom
 Pokecord++ is designed to only support discord slash commands and does not offer support for @mention or prefix commands.
 :::
 ::: tip
-Commands like `/ping`, `/help` and `/info` do not trigger the welcome message.
+Commands like `/ping`, `/help`, `/info` and `/rank` do not trigger the welcome message.
 :::
