@@ -1,6 +1,10 @@
-# About
+# About The Bot
 
-Pokecord++ is a discord bot designed for users who are willing to learn or play around with actual Pokémon mechanics. Unlike most other discord-based Pokémon experiences, Pokecord++ is more focused towards Pokémon battles as opposed to collection. 
+Pokecord++ is a Discord bot built for users who want to engage with authentic Pokémon mechanics. Unlike most Discord-based Pokémon bots that prioritize collecting, Pokecord++ is centered around strategic battles and competitive gameplay. It rewards players who take the time to learn real battle systems, offering a more skill-based and faithful experience.
+
+# About The Guide
+
+This guide helps users navigate the core features of Pokecord++, explaining how to use the bot effectively. It highlights key mechanics and points out areas where they differ from the official Pokémon games. The guide is written with regular users in mind, so it skips over internal logic, technical details, and backend behavior that aren’t relevant to typical gameplay.
 
 ## Adding The Bot
 
