@@ -5,7 +5,7 @@ Seasons are monthly competitive cycles that track players' performance in [ranke
 ## Rewards
 
 At the end of every season:
-- The top #6 players with 900 or more points receive a special season badge that lasts until the next season.
+- The top 6 players with 900 or more points receive a special season badge that lasts until the next season.
 - The #1 ranked player with 900 or more points is crowned as the season winner and receives `500` pokecoins and `25` gems
 
 ## Refresh
