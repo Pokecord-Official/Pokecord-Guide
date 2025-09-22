@@ -9,7 +9,7 @@ The economy is designed to keep inflation under strict control while still makin
 
 ## Voting
 
-Users can earn pokecoins along with additional rewards by [voting](./voting.md) for Pokecord++ on Top.gg.
+Users can earn pokecoins along with additional rewards by [voting](./voting.md) for Pokecord++ on Bothunt.
 
 ## Market
 

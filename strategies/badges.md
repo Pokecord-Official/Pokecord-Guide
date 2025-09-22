@@ -94,7 +94,7 @@ This feature of Pickup only works in wild spawn battles.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859677577613454.png" width="40" height="40" style="margin-right:5px">Stone</div>
 
-Obtained by [voting](/strategies/voting.md) for Pokecord++ on [Top.gg](https://top.gg/bot/818836234104602635/vote) `365` times without breaking the streak.
+Obtained by [voting](/strategies/voting.md) for Pokecord++ on [Bothunt](https://bothunt.co/vote/818836234104602635) `365` times without breaking the streak.
 > Rewards: 
 > - `200` Pokecoins
 :::tip

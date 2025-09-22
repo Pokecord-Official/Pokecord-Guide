@@ -30,7 +30,7 @@ Poke Radar is a special key item that allows re-rolling one selected pokemon fro
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1308415231298371584.png" width="40" height="40" style="margin-right:5px">Rare Element</div>
 
-Rare element is a special key item that forces a rare spawn roll. This item only functions in the official server and can be obtained by [voting](/strategies/voting.md) for the bot on Top.gg.
+Rare element is a special key item that forces a rare spawn roll. This item only functions in the official server and can be obtained by [voting](/strategies/voting.md) for the bot on Bothunt.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1325134551110127697.png" width="40" height="40" style="margin-right:5px">Shiny Rare Element</div>
 
