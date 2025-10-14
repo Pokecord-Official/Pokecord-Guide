@@ -21,7 +21,11 @@ Completing achievements and earning badges is the best way to earn a lot of poke
 
 ## AI Trainer
 
-AI trainer battles can yield up to `30` pokecoins. The professor rewards you with `5` pokecoins per Pokémon upon winning. The AI’s Pokémon levels match the highest-level Pokémon in your party. The difficulty of these battles is based on the Pokémon in your party with the highest [Base Stat Total](https://bulbapedia.bulbagarden.net/wiki/Category:Pok%C3%A9mon_by_base_stat_totals).
+AI trainer battles can yield up to `30` pokecoins. The professor rewards you with `5` pokecoins per Pokémon upon winning. The AI’s Pokémon levels match the highest-level Pokémon in your party. The difficulty of these battles is based on your current AI win streak.
+
+## Ranked`
+
+Winning cross server ranked battles yield `10` pokecoins.
 
 ## Amulet Coin
 
