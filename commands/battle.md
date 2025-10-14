@@ -11,7 +11,7 @@ A win is only considered for a complete battle, forfeitting a battle does not co
 
 ## Cross Server
 
-Cross server battles are ranked Pokémon battles where two eligible players in different discord servers can battle each other. To start a cross server battle, the command should be used without mentioning the `opponent` option.
+Cross server battles are ranked Pokémon battles where two players in different discord servers can battle each other. To start a cross server battle, the command should be used without mentioning the `opponent` option.
 
 ## AI Trainer
 
@@ -22,4 +22,4 @@ Your party generation is equal to the highest generation Pokémon in your party.
 
 ## Battle Actions
 
-Battle actions such as `Z-Move`, `Mega`, `Ultra Burst`, `Dyamax` and `Terastallize` are generation specific and only available in PvP, Cross Server & AI Trainer battles. Terastallizing is only available for generations 9 or above while all other actions are available for generations 8 or below.
+Battle actions such as `Z-Move`, `Mega`, `Ultra Burst`, `Dyamax` and `Terastallize` are generation specific and only available in PvP, Cross Server, Gym & AI Trainer battles. Terastallizing is only available for generations 9 or above while all other actions are available for generations 8 or below.

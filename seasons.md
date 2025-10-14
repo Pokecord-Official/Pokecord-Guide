@@ -1,6 +1,6 @@
 # Seasons
 
-Seasons are monthly competitive cycles that track players' performance in [ranked](./commands/battle.md#cross-server) battles.
+Seasons are quarterly competitive cycles that track players' performance in [ranked](./commands/battle.md#cross-server) battles.
 
 ## Rewards
 
@@ -10,4 +10,4 @@ At the end of every season:
 
 ## Refresh
 
-Seasons refresh on the `1st` of every month at `9:30pm`. After the reset, all users with over `100` points will have their points reduced by `70%`.
+Seasons refresh once every three months. After the reset, all users with over `100` points will have their points reduced by `70%`.
