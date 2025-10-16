@@ -5,9 +5,6 @@ This command is used for `Player vs Player`, `Cross Server` or `AI Trainer` Pok√
 ## Player vs Player
 
 To challenge another player for a Pok√©mon battle, the `opponent` option must be specified. If the mentioned opponent accepts the challenge before it expires, the battle starts.
-:::tip
-A win is only considered for a complete battle, forfeitting a battle does not count as a win for the opponent.
-:::
 
 ## Cross Server
 
