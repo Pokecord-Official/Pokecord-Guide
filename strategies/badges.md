@@ -116,7 +116,7 @@ Adjacent Pokémon must be used in battle for them to catch the virus.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859602055106571.png" width="40" height="40" style="margin-right:5px">Icicle</div>
 
-Obtained by obtaining `Phione` from breeding while being original trainer of the parent.
+Obtained by obtaining `Phione` from breeding while being original trainer of the unbred parent.
 > Rewards: 
 > - `400` Pokecoins
 
