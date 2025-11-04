@@ -4,7 +4,7 @@ Gyms are special battle arenas where trainers can test their skills against othe
 
 ## Eligibility
 
-To fight or claim a gym, you must have a minimum of `15` AI battle win streak. This ensures that only experienced trainers can compete for gym leadership.
+To fight or claim a gym, you must have a minimum of `6` Pokémon in your battle party.
 
 :::tip
 The [battle generation](/commands/battle.md#battle-actions) for gym battles is decided by the gym leader's party.
