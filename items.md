@@ -26,7 +26,7 @@ Relics are special consumable items in the [shop](/commands/shop.md) that have a
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1353759930724777984.png" width="40" height="40" style="margin-right:5px">Poke Radar</div>
 
-Poke Radar is a special key item that allows re-rolling one selected Pokémon from the [spawn](./commands/spawn.md) list. Can be used once every 10 spawns. Also works with `Encounter Tickets`.
+Poke Radar is a special key item that allows re-rolling one selected Pokémon from the [spawn](./commands/spawn.md) list. Can be used once every 5 spawns. Also works with `Encounter Tickets`.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1308415231298371584.png" width="40" height="40" style="margin-right:5px">Rare Element</div>
 

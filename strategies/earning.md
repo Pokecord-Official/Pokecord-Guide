@@ -29,4 +29,4 @@ Winning cross server ranked battles yield `10` pokecoins.
 
 ## Amulet Coin
 
-`Amulet Coin` is an held item that gives a `25%` chance to earn `1` pokecoin upon winning every spawn battle that the holder participates in. This is the only passive method of earning pokecoins.
+`Amulet Coin` is an held item that gives a `25%` chance to earn `2` pokecoins upon winning every spawn battle that the holder participates in. This is the only passive method of earning pokecoins.
