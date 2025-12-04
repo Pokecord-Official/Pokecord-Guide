@@ -1,5 +1,5 @@
 # Voting On Bothunt
-Bothunt is one of the best third-party Discord bot listing websites, allowing developers to showcase their projects. Bots with more votes are displayed closer to the top making them easier to find. <br>Voting is free and involves visiting the [listing page](https://bothunt.co/vote/818836234104602635) of the bot and clicking the `Upvote` button. Users can vote once every `12` hours.
+Bothunt is one of the best third-party Discord bot listing websites, allowing developers to showcase their projects. Bots with more votes are displayed closer to the top making them easier to find. <br>Voting is free and involves visiting the [listing page](https://bothunt.co/bots/818836234104602635/vote) of the bot and clicking the `Upvote` button. Users can vote once every `12` hours.
 
 ## Rewards
 We've made sure our users get rewarded for supporting the project. Voting for the bot gives a [Vote Ticket](../commands/rewards.md#vote-ticket) that can be redeemed to obtain certain items and pokecoins. Below are the rewards that can be obtained through voting.
