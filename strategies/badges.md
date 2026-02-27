@@ -168,7 +168,7 @@ Obtained by catching a `95 IV` or higher Pokémon from a wild spawn.
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1476880508955787355.png" width="40" height="40" style="margin-right:5px">Guru</div>
 
-Obtained by receiving a `100 IV` pokemon from breeding.
+Obtained by receiving a `100 IV` Pokémon from breeding.
 > Rewards: 
 > - `2000` Pokecoins
 
