@@ -12,10 +12,7 @@ Cross server battles are ranked Pokémon battles where two players in different 
 
 ## AI Trainer
 
-If a cross server matchmaking fails or times out, the user is matched with an AI trainer. The AI will always have the same number of Pokémon and party generation as the player. The levels of the opponent Pokémon cannot be higher than the max party level of the challenger.
-:::Info
-Your party generation is equal to the highest generation Pokémon in your party.
-:::
+If a cross server matchmaking fails or times out, the user is matched with an AI trainer. The AI will always have the same number of Pokémon as the player. The levels of the opponent Pokémon cannot be higher than the max party level of the challenger.
 
 ## Battle Actions
 
