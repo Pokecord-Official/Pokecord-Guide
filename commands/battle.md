@@ -8,7 +8,15 @@ To challenge another player for a Pokémon battle, the `opponent` option must be
 
 ## Cross Server
 
-Cross server battles are ranked Pokémon battles where two players in different discord servers can battle each other. To start a cross server battle, the command should be used without mentioning the `opponent` option.
+Cross server battles are Pokémon battles where two players in different discord servers can battle each other. To start a cross server battle, the command should be used without mentioning the `opponent` option.
+
+### Configuration
+
+Server admins may want to configure a specific role to ping users to notify them about cross server challenges. Pokecord++ will automatically pick and mention the first role given to it that contains the word `battle`.
+
+:::tip
+Example role name: `Pokecord++ Battles`
+:::
 
 ## AI Trainer
 

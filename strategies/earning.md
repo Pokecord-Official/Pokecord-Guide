@@ -23,10 +23,6 @@ Completing achievements and earning badges is the best way to earn a lot of poke
 
 AI trainer battles can yield up to `30` pokecoins. The professor rewards you with `5` pokecoins per Pokémon upon winning. The AI’s Pokémon levels match the highest-level Pokémon in your party. The difficulty of these battles is based on your current AI win streak.
 
-## Ranked
-
-Winning cross server ranked battles yield `10` pokecoins.
-
 ## Amulet Coin
 
 `Amulet Coin` is an held item that gives a `25%` chance to earn `2` pokecoins upon winning every spawn battle that the holder participates in. This is the only passive method of earning pokecoins.

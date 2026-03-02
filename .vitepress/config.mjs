@@ -41,7 +41,6 @@ export default defineConfig({
           { text: '/shop', link: '/commands/shop.md' },
           { text: '/ping', link: '/commands/ping.md' },
           { text: '/help', link: '/commands/help.md' },
-          { text: '/rank', link: '/commands/rank.md' },
           { text: '/info', link: '/commands/info.md' },
           { text: '/gift', link: '/commands/gift.md' },
         ]
@@ -69,7 +68,6 @@ export default defineConfig({
           { text: 'Custom Items', link: '/items.md' },
           { text: 'Bug Bounty', link: '/bounty.md' },
           { text: 'Timeouts', link: '/timeouts.md' },
-          { text: 'Seasons', link: '/seasons.md' },
           { text: 'Limits', link: '/limits.md' },
           { text: 'Glitch', link: '/glitch.md' }
         ]
