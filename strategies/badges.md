@@ -185,24 +185,6 @@ Obtained by reaching a `250` quest milestone.
 Quest milestone is the number of times all daily quests have been completed and claimed.
 :::
 
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1478378547390320750.png" width="40" height="40" style="margin-right:5px">AI Rookie</div>
-
-Obtained by winning an [AI](../commands/battle.md) battle.
-> Rewards
-> - `60` Pokecoins
-
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1478378536674005115.png" width="40" height="40" style="margin-right:5px">AI Challenger</div>
-
-Obtained by reaching the `challenger` difficulty for AI battles. Replaces the [AI Rookie](#ai-rookie) badge.
-> Rewards
-> - `120` Pokecoins
-
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1478378540528435320.png" width="40" height="40" style="margin-right:5px">AI Expert</div>
-
-Obtained by reaching the `expert` difficulty for AI battles. Replaces the [AI Challenger](#ai-challenger) badge.
-> Rewards
-> - `240` Pokecoins
-
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311266281416032327.png" width="40" height="40" style="margin-right:5px">Expert</div>
 
 Obtained by reaching a `500` win streak.
@@ -220,3 +202,21 @@ Obtained by reaching a `800` win streak. Replaces the [Expert](#expert) badge.
 Obtained by reaching a `1000` win streak. Replaces the [Master](#master) badge.
 > Rewards
 > - `9999` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1478378547390320750.png" width="40" height="40" style="margin-right:5px">AI Rookie</div>
+
+Obtained by winning an [AI](../commands/battle.md) battle.
+> Rewards
+> - `60` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1478378536674005115.png" width="40" height="40" style="margin-right:5px">AI Challenger</div>
+
+Obtained by reaching the `challenger` difficulty for AI battles. Replaces the [AI Rookie](#ai-rookie) badge.
+> Rewards
+> - `120` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1478378540528435320.png" width="40" height="40" style="margin-right:5px">AI Expert</div>
+
+Obtained by reaching the `expert` difficulty for AI battles. Replaces the [AI Challenger](#ai-challenger) badge.
+> Rewards
+> - `240` Pokecoins
