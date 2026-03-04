@@ -13,6 +13,10 @@ Obtained by becoming a [premium](https://buymeacoffee.com/pokecord/membership) m
 
 Obtained by participating in the [bug bounty](../bounty.md) program.
 
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1478406999074013446.png" width="40" height="40" style="margin-right:5px">Gym Leader</div>
+
+Obtained by becoming a [gym](../commands/gyms.md) leader. This badge disappears if someone else takes over your gym.
+
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859693105053738.png" width="40" height="40" style="margin-right:5px">Thunder</div>
 
 Obtained by getting unlucky and missing your chance to get a shiny after using [Relic Platinum](../items.md#relic-platinum).
@@ -180,6 +184,24 @@ Obtained by reaching a `250` quest milestone.
 :::info
 Quest milestone is the number of times all daily quests have been completed and claimed.
 :::
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1478378547390320750.png" width="40" height="40" style="margin-right:5px">AI Rookie</div>
+
+Obtained by winning an [AI](../commands/battle.md) battle.
+> Rewards
+> - `60` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1478378536674005115.png" width="40" height="40" style="margin-right:5px">AI Challenger</div>
+
+Obtained by reaching the `challenger` difficulty for AI battles. Replaces the [AI Rookie](#ai-rookie) badge.
+> Rewards
+> - `120` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1478378540528435320.png" width="40" height="40" style="margin-right:5px">AI Expert</div>
+
+Obtained by reaching the `expert` difficulty for AI battles. Replaces the [AI Challenger](#ai-challenger) badge.
+> Rewards
+> - `240` Pokecoins
 
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1311266281416032327.png" width="40" height="40" style="margin-right:5px">Expert</div>
 
