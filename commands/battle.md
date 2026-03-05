@@ -24,4 +24,4 @@ If a cross server matchmaking fails or times out, the user is matched with an AI
 
 ## Battle Actions
 
-Battle actions such as `Z-Move`, `Mega`, `Ultra Burst`, `Dyamax` and `Terastallize` are generation specific and only available in PvP, Cross Server, Gym & AI Trainer battles. Terastallizing is only available for generations 9 or above while all other actions are available for generations 8 or below.
+Battle actions like `Z-Move`, `Mega`, and `Ultra Burst` require the Pokémon to hold the appropriate item, while `Dynamax` and `Terastallize` are tied to specific generations. These actions are available only in PvP, Cross-Server, Gym, and AI Trainer battles. Terastallize is available only in Generation 9 and above, while Dynamax is available only in Generation 8 and below.
