@@ -54,6 +54,12 @@ Obtained by obtaining [Zygarde Power Construct](./voting.md#zygarde-cells).
 > Rewards: 
 > - `100` Pokecoins
 
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1479574110718918871.png" width="40" height="40" style="margin-right:5px">Team Rocket</div>
+
+Obtained by taking over Giovanni's gym with `Persian` as the victory Pokémon.
+> Rewards
+> - `100` Pokecoins
+
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1293265896965537862.png" width="40" height="40" style="margin-right:5px">Tranquility</div>
 
 Obtained by selling a `Medicham` to `Trainer Mindy` and hitting a jackpot.
