@@ -66,9 +66,15 @@ Obtained by taking over Cynthia's gym with `Garchomp` as the victory Pokémon.
 > Rewards
 > - `100` Pokecoins
 
-## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1479783860563607674.png" width="40" height="40" style="margin-right:5px">Spooky</div>
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1479783860563607674.png" width="40" height="40" style="margin-right:5px">Phantom</div>
 
 Obtained by taking over Agatha's gym with `Ghost` type Pokémon.
+> Rewards
+> - `100` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1479853343097622760.png" width="40" height="40" style="margin-right:5px">Charm</div>
+
+Obtained by taking over Valerie's gym with `Fairy` type Pokémon.
 > Rewards
 > - `100` Pokecoins
 
