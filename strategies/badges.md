@@ -60,6 +60,18 @@ Obtained by taking over Giovanni's gym with `Persian` as the victory Pokémon.
 > Rewards
 > - `100` Pokecoins
 
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1479783814761938996.png" width="40" height="40" style="margin-right:5px">Fear</div>
+
+Obtained by taking over Cynthia's gym with `Garchomp` as the victory Pokémon.
+> Rewards
+> - `100` Pokecoins
+
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1479783860563607674.png" width="40" height="40" style="margin-right:5px">Spooky</div>
+
+Obtained by taking over Agatha's gym with `Ghost` type Pokémon.
+> Rewards
+> - `100` Pokecoins
+
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1293265896965537862.png" width="40" height="40" style="margin-right:5px">Tranquility</div>
 
 Obtained by selling a `Medicham` to `Trainer Mindy` and hitting a jackpot.
