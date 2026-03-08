@@ -29,6 +29,12 @@ This is the very first badge that every user receives for picking a starter PokÃ
 > Rewards: 
 > - `60` Pokecoins
 
+## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1480311135403118592.png" width="40" height="40" style="margin-right:5px">Nemesis</div>
+
+Obtained by nuking `16` gym leaders. 
+> Rewards: 
+> - `60` Pokecoins
+
 ## <div style="display: flex;align-items: center"><img src="https://cdn.discordapp.com/emojis/1275859585332154469.png" width="40" height="40" style="margin-right:5px">Freedom</div>
 
 Obtained by winning a `1v6` PvP battle.
