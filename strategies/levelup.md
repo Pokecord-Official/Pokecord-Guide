@@ -5,8 +5,8 @@ The leveling system and [experience](https://bulbapedia.bulbagarden.net/wiki/Exp
 ## Battles
 
 Defeating each Pokémon in a battle yields a specific amount of experience and effort value points, this can be viewed using the [/info](/commands/info.html) command.
-:::tip
-The experience yield for some Pokémon has been edited for balancing purposes. This is indicated by the `[Balanced]` tag in the `/info` command.
+:::info
+The experience yield from PVP battles is capped at a maximum of `15,000` per Pokémon.
 :::
 
 ## Items
