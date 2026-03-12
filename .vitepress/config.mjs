@@ -27,6 +27,7 @@ export default defineConfig({
         items: [
           { text: '/leaderboard', link: '/commands/leaderboard.md' },
           { text: '/hangmon', link: '/commands/hangmon.md' },
+          { text: '/monsweeper', link: '/commands/monsweeper.md' },
           { text: '/rewards', link: '/commands/rewards.md' },
           { text: '/market', link: '/commands/market.md' },
           { text: '/spawn', link: '/commands/spawn.md' },
