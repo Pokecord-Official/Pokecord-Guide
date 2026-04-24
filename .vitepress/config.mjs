@@ -32,7 +32,7 @@ export default defineConfig({
           { text: '/market', link: '/commands/market.md' },
           { text: '/spawn', link: '/commands/spawn.md' },
           { text: '/profile', link: '/commands/profile.md' },
-          { text: '/breed', link: '/commands/breed.md' },
+          { text: '/picnic', link: '/commands/picnic.md' },
           { text: '/teach', link: '/commands/teach.md' },
           { text: '/battle', link: '/commands/battle.md' },
           { text: '/gyms', link: '/commands/gyms.md' },
