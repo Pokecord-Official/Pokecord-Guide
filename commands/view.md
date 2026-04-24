@@ -18,9 +18,6 @@ The 🔍 button can be used to search for Pokémon. Search can contain keywords 
 :::info
 Searching for `common` and `regional` rarity is not supported.
 :::
-:::tip
-The search button can also be found in [/trade](/commands/trade.html), [/gift](/commands/gift.html) and [/breed](/commands/breed.html) messages.
-:::
 
 ## Multi Release
 This is a lesser known feature of the view command that allows users to release multple Pokémon from a given range of IV values. The `Release` button changes to `Multi Release` when viewing the selected Pokémon. This button will only release Pokémon that belong to `Common` and `Regional` rarity.
