@@ -14,6 +14,6 @@ If you're just starting out, it is recommended to pick your opponent based on [t
 
 There is a `1` in `4096` chance for a spawned Pokémon to be a shiny. Shiny Pokémon are indicated with a ✨ in the spawn list.<br>
 :::tip Items
-[Relics](https://pokecord.org/items) can be used to transform an existing Pokémon into a shiny.<br>
+[Relics](/items.md) can be used to transform an existing Pokémon into a shiny.<br>
 [Shiny Charm](https://bulbapedia.bulbagarden.net/wiki/Shiny_Charm) can be used to change shiny spawn rates to `1` in `2096`.
 :::
